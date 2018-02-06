@@ -1,0 +1,36 @@
+
+{
+    "version":"3.4.1.v201709070950",
+    "created":"2018-01-22 11:31",
+    "nodestats":{
+        "nodes":[
+            {
+                "id":"org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2#Association Rule Learner",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.io.filereader.FileReaderNodeFactory#File Reader",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":0,
+                "successor":"org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2#Association Rule Learner"
+            }
+        ],
+        "metaNodes":{
+        },
+        "wrappedNodes":{
+        }
+    },
+    "uptime":1262532,
+    "workflowsOpened":0,
+    "remoteWorkflowsOpened":0,
+    "launches":1,
+    "timeSinceLastStart":1262532,
+    "crashes":0,
+    "properlyShutDown":true
+}

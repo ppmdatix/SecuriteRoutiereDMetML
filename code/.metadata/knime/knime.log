@@ -1,0 +1,1130 @@
+2018-01-22 11:30:52,574 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2018-01-22 11:30:52,575 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2018-01-22 11:30:52,575 : INFO  : main : NodeLogger :  :  : # Welcome to the KNIME Analytics Platform v3.4.1.v201709070950 (Build September 11, 201 #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # Copyright by KNIME GmbH, Konstanz, Germany and others.                                #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # Website: http://www.knime.org                                                         #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # E-mail: contact@knime.org                                                             #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # /Users/ppx/Desktop/M2 DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/.metadata/knime/knime.log
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2018-01-22 11:30:52,576 : INFO  : main : NodeLogger :  :  : # logging date=Mon Jan 22 11:30:52 CET 2018
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # java.version=1.8.0_60
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # java.vm.version=25.60-b23
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # java.vendor=Oracle Corporation
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # os.name=Mac OS X
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # os.arch=x86_64
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # number of CPUs=4
+2018-01-22 11:30:52,577 : INFO  : main : NodeLogger :  :  : # assertions=off
+2018-01-22 11:30:52,578 : INFO  : main : NodeLogger :  :  : # host=wu-pc-00271.univ-lyon1.fr
+2018-01-22 11:30:52,584 : INFO  : main : NodeLogger :  :  : # username=ppx
+2018-01-22 11:30:52,584 : INFO  : main : NodeLogger :  :  : # max mem=1820MB
+2018-01-22 11:30:52,585 : INFO  : main : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2018-01-22 11:30:52,593 : INFO  : main : NodeLogger :  :  : # ID=01-e684c8184906c1bc
+2018-01-22 11:30:52,593 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2018-01-22 11:30:55,312 : INFO  : main : StringHistory :  :  : History file '/Users/ppx/Desktop/M2 DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/.metadata/knime/history_database_drivers.txt' does not exist.
+2018-01-22 11:30:55,313 : INFO  : main : StringHistory :  :  : History file '/Users/ppx/Desktop/M2 DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/.metadata/knime/history_database_urls.txt' does not exist.
+2018-01-22 11:30:55,313 : DEBUG : main : DatabaseConnectionSettings :  :  : Settings database timeout to 15 seconds
+2018-01-22 11:30:55,368 : DEBUG : main : DatabaseConnectionSettings :  :  : Database concurrency (sync via database connection) is true.
+2018-01-22 11:30:55,369 : DEBUG : main : KNIMECorePlugin :  :  : Setting KNIME max thread count to 8
+2018-01-22 11:30:55,369 : DEBUG : main : KNIMECorePlugin :  :  : Setting KNIME temp dir to "/var/folders/q_/0qh2nb8s6hs3n091th2d_jc40000gn/T"
+2018-01-22 11:30:55,469 : INFO  : main : KNIMECorePlugin :  :  : Setting console view log level to WARN
+2018-01-22 11:30:55,471 : DEBUG : main : KnimeEncryption :  :  : Replacing current encryption key supplier "null" with this new one "org.knime.workbench.core.EclipseEncryptionKeySupplier@527d48db".
+2018-01-22 11:30:55,471 : DEBUG : main : DatabaseConnectionSettings :  :  : Settings database timeout to 15 seconds
+2018-01-22 11:30:55,483 : DEBUG : main : KnimeEncryption :  :  : Replacing current encryption key supplier "org.knime.workbench.core.EclipseEncryptionKeySupplier@527d48db" with this new one "org.knime.workbench.ui.masterkey.MasterKeyPreferencePage$1@3ea84e01".
+2018-01-22 11:30:55,605 : DEBUG : main : SvgPluginActivator :  :  : Added SVG export option to node view class
+2018-01-22 11:30:56,663 : DEBUG : main : KnimeEnterpriseFileSystemPlugin :  :  : Started KNIME Enterprise Remote File System plug-in
+2018-01-22 11:30:56,687 : INFO  : main : ExplorerMountTable :  :  : Mounted Explorer Temp Space 'knime-temp-space' - com.knime.explorer.tempspace
+2018-01-22 11:30:56,742 : DEBUG : main : UpdateManager :  :  : Updating registered ServerSpaces every 2000 msec.
+2018-01-22 11:30:57,175 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'io' on path '/'
+2018-01-22 11:30:57,180 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'manipulation' on path '/'
+2018-01-22 11:30:57,181 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'database' on path '/'
+2018-01-22 11:30:57,183 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'view' on path '/'
+2018-01-22 11:30:57,184 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'analytics' on path '/'
+2018-01-22 11:30:57,186 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'toolintegration' on path '/'
+2018-01-22 11:30:57,186 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'misc' on path '/'
+2018-01-22 11:30:57,187 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'labs' on path '/'
+2018-01-22 11:30:57,189 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'community' on path '/'
+2018-01-22 11:30:57,190 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'social-media' on path '/'
+2018-01-22 11:30:57,196 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'report' on path '/'
+2018-01-22 11:30:57,197 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'chemistry' on path '/'
+2018-01-22 11:30:57,198 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'applications' on path '/'
+2018-01-22 11:30:57,199 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'struct-data' on path '/'
+2018-01-22 11:30:57,201 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'scripting' on path '/'
+2018-01-22 11:30:57,202 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'flowcontrol' on path '/'
+2018-01-22 11:30:57,203 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'uncategorized' on path '/'
+2018-01-22 11:30:57,204 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'read' on path '/io'
+2018-01-22 11:30:57,205 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'write' on path '/io'
+2018-01-22 11:30:57,207 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'column' on path '/manipulation'
+2018-01-22 11:30:57,208 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'row' on path '/manipulation'
+2018-01-22 11:30:57,209 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'table' on path '/manipulation'
+2018-01-22 11:30:57,210 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'pmml' on path '/manipulation'
+2018-01-22 11:30:57,211 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'property' on path '/view'
+2018-01-22 11:30:57,212 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'mining' on path '/analytics'
+2018-01-22 11:30:57,213 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'statistics' on path '/analytics'
+2018-01-22 11:30:57,213 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'io-other' on path '/io'
+2018-01-22 11:30:57,214 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'java-snippet' on path '/scripting'
+2018-01-22 11:30:57,215 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'view-util' on path '/view'
+2018-01-22 11:30:57,215 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'labspmml' on path '/labs'
+2018-01-22 11:30:57,215 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'database-io' on path '/database'
+2018-01-22 11:30:57,216 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'database-manipulation' on path '/database'
+2018-01-22 11:30:57,216 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'database-connector' on path '/database'
+2018-01-22 11:30:57,216 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'database-utility' on path '/database'
+2018-01-22 11:30:57,217 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'automation' on path '/flowcontrol'
+2018-01-22 11:30:57,218 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'quickforms' on path '/flowcontrol'
+2018-01-22 11:30:57,219 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'variables' on path '/flowcontrol'
+2018-01-22 11:30:57,220 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'switches' on path '/flowcontrol'
+2018-01-22 11:30:57,222 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'trycatch' on path '/flowcontrol'
+2018-01-22 11:30:57,223 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'meta' on path '/flowcontrol'
+2018-01-22 11:30:57,225 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'distance' on path '/analytics'
+2018-01-22 11:30:57,227 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'json' on path '/struct-data'
+2018-01-22 11:30:57,228 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'timeseries' on path '/applications'
+2018-01-22 11:30:57,229 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'xml' on path '/struct-data'
+2018-01-22 11:30:57,229 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'row-other' on path '/manipulation/row'
+2018-01-22 11:30:57,229 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'column-split+combine' on path '/manipulation/column'
+2018-01-22 11:30:57,229 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'column-filter' on path '/manipulation/column'
+2018-01-22 11:30:57,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'column-transform' on path '/manipulation/column'
+2018-01-22 11:30:57,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'binning' on path '/manipulation/column'
+2018-01-22 11:30:57,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'column-convert+replace' on path '/manipulation/column'
+2018-01-22 11:30:57,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'row-filter' on path '/manipulation/row'
+2018-01-22 11:30:57,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'row-transform' on path '/manipulation/row'
+2018-01-22 11:30:57,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'clustering' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'nn' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'regression' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'rules' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'dtree' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'modeleval' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'subgroup' on path '/analytics/mining'
+2018-01-22 11:30:57,231 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'miscClass' on path '/analytics/mining'
+2018-01-22 11:30:57,232 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'bayes' on path '/analytics/mining'
+2018-01-22 11:30:57,232 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'mds' on path '/analytics/mining'
+2018-01-22 11:30:57,232 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'svm' on path '/analytics/mining'
+2018-01-22 11:30:57,232 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'featureselection' on path '/analytics/mining'
+2018-01-22 11:30:57,232 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'pca' on path '/analytics/mining'
+2018-01-22 11:30:57,233 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'weka' on path '/analytics/mining'
+2018-01-22 11:30:57,233 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'mining-pmml' on path '/analytics/mining'
+2018-01-22 11:30:57,234 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'loopsupport' on path '/flowcontrol/'
+2018-01-22 11:30:57,235 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'treeensemble' on path '/analytics/mining'
+2018-01-22 11:30:57,235 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'regression' on path 'analytics/mining/treeensemble'
+2018-01-22 11:30:57,236 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'distmatrix' on path '/analytics/distance'
+2018-01-22 11:30:57,237 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'distfunctions' on path '/analytics/distance'
+2018-01-22 11:30:57,238 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'ensembles' on path '/analytics/mining'
+2018-01-22 11:30:57,242 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'input' on path '/flowcontrol/quickforms'
+2018-01-22 11:30:57,242 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'selection' on path '/flowcontrol/quickforms'
+2018-01-22 11:30:57,242 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'filter' on path '/flowcontrol/quickforms'
+2018-01-22 11:30:57,243 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'output' on path '/flowcontrol/quickforms'
+2018-01-22 11:30:57,244 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'hypothesis-testing' on path '/analytics/statistics'
+2018-01-22 11:30:57,245 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'meta' on path '/applications/timeseries'
+2018-01-22 11:30:57,246 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'transform' on path '/applications/timeseries'
+2018-01-22 11:30:57,246 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'manipulate' on path '/applications/timeseries'
+2018-01-22 11:30:57,246 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'smoothing' on path '/applications/timeseries'
+2018-01-22 11:30:57,247 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'timeseries_legacy' on path '/applications/timeseries'
+2018-01-22 11:30:57,247 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'basisfunction' on path '/analytics/mining/rules'
+2018-01-22 11:30:57,248 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'mlp' on path '/analytics/mining/nn'
+2018-01-22 11:30:57,248 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'pnn' on path '/analytics/mining/nn'
+2018-01-22 11:30:57,248 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'meta' on path '/analytics/mining/featureselection'
+2018-01-22 11:30:57,249 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'crossvalidation' on path '/analytics/mining/modeleval'
+2018-01-22 11:30:57,249 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'meta' on path '/analytics/mining/modeleval'
+2018-01-22 11:30:57,251 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'logreg' on path '/analytics/mining/'
+2018-01-22 11:30:57,251 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'classification' on path '/analytics/mining/treeensemble'
+2018-01-22 11:30:57,252 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'randomforest' on path '/analytics/mining/treeensemble'
+2018-01-22 11:30:57,252 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'gradientboosting' on path '/analytics/mining/treeensemble'
+2018-01-22 11:30:57,252 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'ensembles-combine' on path '/analytics/mining/ensembles'
+2018-01-22 11:30:57,253 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'meta' on path '/analytics/mining/ensembles'
+2018-01-22 11:30:57,255 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'libsvm' on path '/analytics/mining/svm'
+2018-01-22 11:30:57,255 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'classification' on path '/analytics/mining/treeensemble/randomforest'
+2018-01-22 11:30:57,255 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'regression' on path '/analytics/mining/treeensemble/randomforest'
+2018-01-22 11:30:57,255 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'regression' on path '/analytics/mining/treeensemble/gradientboosting'
+2018-01-22 11:30:57,255 : DEBUG : Worker-1 : RepositoryManager :  :  : Found category extension 'classification' on path '/analytics/mining/treeensemble/gradientboosting'
+2018-01-22 11:30:57,272 : DEBUG : main : KNIMEEditorPlugin :  :  : Workflow SVG export not available, unable to instantiate "org.knime.workbench.editor.svgexport.exportservice.WorkflowSVGExportImpl"
+2018-01-22 11:30:58,342 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'com.knime.reporting.nodes.dataset.ReportingDataSetNodeFactory': Data to Report
+2018-01-22 11:30:58,358 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'com.knime.reporting.nodes.dataset.ReportingImageNodeFactory': Image to Report
+2018-01-22 11:30:58,459 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'com.knime.server.nodes.callworkflow.CallRemoteWorkflowNodeFactory': Call Remote Workflow
+2018-01-22 11:30:58,474 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.smote.SmoteNodeFactory': SMOTE
+2018-01-22 11:30:58,496 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.filereader.FileReaderNodeFactory': File Reader
+2018-01-22 11:30:58,510 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.color.ColorManager2NodeFactory': Color Manager
+2018-01-22 11:30:58,518 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.size.SizeManager2NodeFactory': Size Manager
+2018-01-22 11:30:58,525 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.shape.ShapeManagerNodeFactory': Shape Manager
+2018-01-22 11:30:58,532 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.color.ColorAppender2NodeFactory': Color Appender
+2018-01-22 11:30:58,538 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.size.SizeAppenderNodeFactory': Size Appender
+2018-01-22 11:30:58,544 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.shape.ShapeAppenderNodeFactory': Shape Appender
+2018-01-22 11:30:58,549 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.table.TableNodeFactory': Interactive Table
+2018-01-22 11:30:58,557 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.binner.BinnerNodeFactory': Numeric Binner
+2018-01-22 11:30:58,563 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.binnerdictionary.BinByDictionaryNodeFactory': Binner (Dictionary)
+2018-01-22 11:30:58,568 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.cache.CacheNodeFactory': Cache
+2018-01-22 11:30:58,582 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.bfn.fuzzy.FuzzyBasisFunctionLearnerNodeFactory': Fuzzy Rule Learner
+2018-01-22 11:30:58,734 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.bfn.fuzzy.FuzzyBasisFunctionPredictor2NodeFactory': Fuzzy Rule Predictor
+2018-01-22 11:30:58,753 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.bfn.radial.RadialBasisFunctionLearnerNodeFactory': PNN Learner (DDA)
+2018-01-22 11:30:58,762 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.bfn.radial.RadialBasisFunctionPredictor2NodeFactory': PNN Predictor
+2018-01-22 11:30:58,790 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.csvwriter.CSVWriterNodeFactory': CSV Writer
+2018-01-22 11:30:58,802 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.joiner.Joiner2NodeFactory': Joiner
+2018-01-22 11:30:58,810 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.crossjoin.CrossJoinerNodeFactory': Cross Joiner
+2018-01-22 11:30:58,820 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.split2.SplitNodeFactory2': Column Splitter
+2018-01-22 11:30:58,826 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnappend.ColumnAppenderNodeFactory': Column Appender
+2018-01-22 11:30:58,858 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.arffwriter.ARFFWriterNodeFactory': ARFF Writer
+2018-01-22 11:30:58,865 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.sorter.SorterNodeFactory': Sorter
+2018-01-22 11:30:58,871 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.arffreader.ARFFReaderNodeFactory': ARFF Reader
+2018-01-22 11:30:58,889 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.csvreader.CSVReaderNodeFactory': CSV Reader
+2018-01-22 11:30:58,910 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.linereader.LineReaderNodeFactory': Line Reader
+2018-01-22 11:30:58,920 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.crosstable.CrosstabNodeFactory': Crosstab
+2018-01-22 11:30:58,926 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.valcount.ValueCounterNodeFactory': Value Counter
+2018-01-22 11:30:58,931 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.normalize3.Normalizer3NodeFactory': Normalizer
+2018-01-22 11:30:58,940 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.normalize.NormalizerPMMLApplyNodeFactory': Normalizer Apply (PMML)
+2018-01-22 11:30:58,949 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.columnfilter.DataColumnSpecFilterPMMLNodeFactory': Column Filter (PMML)
+2018-01-22 11:30:58,959 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.append.row.AppendedRowsNodeFactory': Concatenate
+2018-01-22 11:30:58,962 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.append.row.AppendedRowsWithOptionalInNodeFactory': Concatenate (Optional in)
+2018-01-22 11:30:58,970 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.row.RowFilterNodeFactory': Row Filter
+2018-01-22 11:30:58,975 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.row.RowFilter2PortNodeFactory': Row Splitter
+2018-01-22 11:30:58,981 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.shuffle.ShuffleNodeFactory': Shuffle
+2018-01-22 11:30:59,070 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.sample.SamplingNodeFactory': Row Sampling
+2018-01-22 11:30:59,080 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.bootstrap.BootstrapNodeFactory': Bootstrap Sampling
+2018-01-22 11:30:59,087 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.equalsizesampling.EqualSizeSamplingNodeFactory': Equal Size Sampling
+2018-01-22 11:30:59,092 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.partition.PartitionNodeFactory': Partitioning
+2018-01-22 11:30:59,107 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.fuzzycmeans.FuzzyClusterNodeFactory2': Fuzzy c-Means
+2018-01-22 11:30:59,120 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.neural.mlp2.MLPPredictorNodeFactory': MultiLayerPerceptron Predictor
+2018-01-22 11:30:59,155 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.predictor.PredictorReaderNodeFactory': Model Reader
+2018-01-22 11:30:59,163 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.transpose.TransposeTableNodeFactory': Transpose
+2018-01-22 11:30:59,167 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.extracttabledimension.ExtractTableDimensionNodeFactory': Extract Table Dimension
+2018-01-22 11:30:59,172 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.extracttablespec.ExtractTableSpecNodeFactory': Extract Table Spec
+2018-01-22 11:30:59,199 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.decisiontree2.predictor2.DecTreePredictorNodeFactory': Decision Tree Predictor
+2018-01-22 11:30:59,206 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.decisiontree2.image.DecTreeToImageNodeFactory': Decision Tree To Image
+2018-01-22 11:30:59,222 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.sota.SotaLearnerNodeFactory': SOTA Learner
+2018-01-22 11:30:59,230 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.rename.RenameNodeFactory': Column Rename
+2018-01-22 11:30:59,253 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".all" registered for Node Factory: FileReaderNodeFactory.
+2018-01-22 11:30:59,253 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".csv" registered for Node Factory: FileReaderNodeFactory.
+2018-01-22 11:30:59,253 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".csv.gz" registered for Node Factory: FileReaderNodeFactory.
+2018-01-22 11:30:59,253 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".json" registered for Node Factory: JSONReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".json.gz" registered for Node Factory: JSONReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".pmml" registered for Node Factory: PMMLReaderNodeFactory2.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".sqlite" registered for Node Factory: SQLiteConnectorNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".table" registered for Node Factory: ReadTableNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".tsv" registered for Node Factory: FileReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".txt" registered for Node Factory: FileReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".txt.gz" registered for Node Factory: FileReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".xls" registered for Node Factory: XLSReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".xlsx" registered for Node Factory: XLSReaderNodeFactory.
+2018-01-22 11:30:59,254 : DEBUG : main : ContextAwareNodeFactoryMapper :  :  : File extension: ".xml" registered for Node Factory: XMLReaderNodeFactory.
+2018-01-22 11:30:59,331 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnrenameregex.ColumnRenameRegexNodeFactory': Column Rename (Regex)
+2018-01-22 11:30:59,338 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.constantvalue.ConstantValueColumnNodeFactory': Constant Value Column
+2018-01-22 11:30:59,346 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.bitvector.create.CreateBitVectorNodeFactory': Create Bit Vector
+2018-01-22 11:30:59,353 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2': Association Rule Learner
+2018-01-22 11:30:59,358 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.regression.predict2.RegressionPredictorNodeFactory': Regression Predictor
+2018-01-22 11:30:59,359 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.table.read.ReadTableNodeFactory': Table Reader
+2018-01-22 11:30:59,367 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.table.write.WriteTableNodeFactory': Table Writer
+2018-01-22 11:30:59,370 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.bitvector.create.CreateBitVectorNodeFactory': Create Bit Vector
+2018-01-22 11:30:59,386 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.bitvector.expand.ExpandBitVectorNodeFactory': Expand Bit Vector
+2018-01-22 11:30:59,392 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.histogram.node.HistogramNodeFactory': Histogram (interactive)
+2018-01-22 11:30:59,398 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.histogram.node.FixedColumnHistogramNodeFactory': Histogram
+2018-01-22 11:30:59,402 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.normalize.NormalizerApplyNodeFactory': Normalizer (Apply)
+2018-01-22 11:30:59,409 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.plotter.box.BoxPlotNodeFactory': Box Plot
+2018-01-22 11:30:59,425 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.plotter.line.LinePlotterNodeFactory': Line Plot
+2018-01-22 11:30:59,429 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.plotter.parcoord.ParallelCoordinateNodeFactory': Parallel Coordinates
+2018-01-22 11:30:59,432 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.plotter.scatter.ScatterPlotterNodeFactory': Scatter Plot
+2018-01-22 11:30:59,436 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.plotter.scattermatrix.ScatterMatrixNodeFactory': Scatter Matrix
+2018-01-22 11:30:59,440 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.hilite.HiliteFilterNodeFactory': HiLite Row Splitter
+2018-01-22 11:30:59,446 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.discretization.caim2.modelcreator.CAIMDiscretization2NodeFactory': CAIM Binner
+2018-01-22 11:30:59,450 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.discretization.caim2.modelapply.Discretization2ApplyNodeFactory': CAIM Applier
+2018-01-22 11:30:59,455 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.rowkey2.RowKeyNodeFactory2': RowID
+2018-01-22 11:30:59,466 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.knn.KnnNodeFactory': K Nearest Neighbor
+2018-01-22 11:30:59,499 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.hierarchical.HierarchicalClusterNodeFactory': Hierarchical Clustering
+2018-01-22 11:30:59,513 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.sota.predictor.SotaPredictorNodeFactory': SOTA Predictor
+2018-01-22 11:30:59,528 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.pie.node.fixed.FixedPieNodeFactory': Pie chart
+2018-01-22 11:30:59,542 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.pie.node.interactive.InteractivePieNodeFactory': Pie chart (interactive)
+2018-01-22 11:30:59,564 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.groupby.GroupByNodeFactory': GroupBy
+2018-01-22 11:30:59,571 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.ungroup.UngroupNodeFactory': Ungroup
+2018-01-22 11:30:59,582 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pivot.Pivot2NodeFactory': Pivoting
+2018-01-22 11:30:59,588 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.bayes.naivebayes.predictor3.NaiveBayesPredictorNodeFactory2': Naive Bayes Predictor
+2018-01-22 11:30:59,594 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.correlation.compute.CorrelationComputeNodeFactory': Linear Correlation
+2018-01-22 11:30:59,596 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.correlation.compute.CorrelationComputeNodeFactory': Linear Correlation
+2018-01-22 11:30:59,604 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.correlation.filter.CorrelationFilterNodeFactory': Correlation Filter
+2018-01-22 11:30:59,611 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.lowvarfilter2.LowVarFilter2NodeFactory': Low Variance Filter
+2018-01-22 11:30:59,620 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.mds.MDSNodeFactory': MDS
+2018-01-22 11:30:59,625 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.mds.mdsprojection.MDSProjectionNodeFactory': MDS Projection
+2018-01-22 11:30:59,632 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.svm.predictor2.SVMPredictorNodeFactory': SVM Predictor
+2018-01-22 11:30:59,638 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colcompare.ColumnComparatorNodeFactory': Column Comparator
+2018-01-22 11:30:59,642 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.rowsplit.NumericRowSplitterNodeFactory': Numeric Row Splitter
+2018-01-22 11:30:59,647 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.stringreplacer.StringReplacerNodeFactory': String Replacer
+2018-01-22 11:30:59,656 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.domain.dialog2.DomainNodeFactory': Domain Calculator
+2018-01-22 11:30:59,661 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.domain.editnumeric.EditNumericDomainNodeFactory': Edit Numeric Domain
+2018-01-22 11:30:59,667 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.domain.editnominal.dic.EditNominalDomainDicNodeFactory': Edit Nominal Domain (Dictionary)
+2018-01-22 11:30:59,701 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.domain.editnominal.EditNominalDomainNodeFactory': Edit Nominal Domain
+2018-01-22 11:30:59,705 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.caseconvert.CaseConvertNodeFactory': Case Converter
+2018-01-22 11:30:59,709 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.stringreplacer.dict.SearchReplaceDictNodeFactory': String Replace (Dictionary)
+2018-01-22 11:30:59,714 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.cellsplit.CellSplitterNodeFactory': Cell Splitter
+2018-01-22 11:30:59,718 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colconvert.numbertostring.NumberToStringNodeFactory': Number To String
+2018-01-22 11:30:59,724 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colconvert.stringtonumber.StringToNumberNodeFactory': String To Number
+2018-01-22 11:30:59,729 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columntrans2.One2ManyCol2NodeFactory': One to Many
+2018-01-22 11:30:59,733 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columntrans2.Many2OneCol2NodeFactory': Many to One
+2018-01-22 11:30:59,771 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colcombine2.ColCombine2NodeFactory': Column Combiner
+2018-01-22 11:30:59,787 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnmerge.ColumnMergerNodeFactory': Column Merger
+2018-01-22 11:30:59,799 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.assign.ClusterAssignerNodeFactory': Cluster Assigner
+2018-01-22 11:30:59,810 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.scorer.accuracy.AccuracyScorerNodeFactory': Scorer
+2018-01-22 11:30:59,820 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.scorer.numeric.NumericScorerNodeFactory': Numeric Scorer
+2018-01-22 11:30:59,827 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.scorer.entrop.NewEntropyNodeFactory': Entropy Scorer
+2018-01-22 11:30:59,833 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.roc.ROCNodeFactory': ROC Curve
+2018-01-22 11:30:59,839 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.enrichment2.EnrichmentPlotterFactory': Enrichment Plotter
+2018-01-22 11:30:59,846 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBReaderNodeFactory': Database Reader
+2018-01-22 11:30:59,850 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBReaderConnectionNodeFactory': Database Table Connector
+2018-01-22 11:30:59,855 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DatabaseLoopingNodeFactory': Database Looping
+2018-01-22 11:30:59,860 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.parameterizedquery.ParameterizedDBQueryNodeFactory': Parameterized Database Query
+2018-01-22 11:30:59,870 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBConnectionNodeFactory': Database Connection Table Reader
+2018-01-22 11:30:59,875 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBRowFilterNodeFactory': Database Row Filter
+2018-01-22 11:30:59,884 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBQueryNodeFactory2': Database Query
+2018-01-22 11:30:59,888 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBColumnFilterNodeFactory': Database Column Filter
+2018-01-22 11:30:59,892 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBSorterNodeFactory': Database Sorter
+2018-01-22 11:30:59,898 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.groupby.DBGroupByNodeFactory2': Database GroupBy
+2018-01-22 11:30:59,904 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBJoinerNodeFactory': Database Joiner
+2018-01-22 11:30:59,916 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.tablecreator.DBTableCreatorNodeFactory': Database Table Creator
+2018-01-22 11:30:59,919 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBConnectionWriterNodeFactory': Database Connection Table Writer
+2018-01-22 11:30:59,924 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBWriterNodeFactory': Database Writer
+2018-01-22 11:30:59,928 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBUpdateNodeFactory': Database Update
+2018-01-22 11:30:59,932 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBDeleteRowsNodeFactory': Database Delete
+2018-01-22 11:30:59,936 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.DBSQLExecutorNodeFactory': Database SQL Executor
+2018-01-22 11:30:59,940 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.cellsplitbypos.CellSplitterByPosNodeFactory': Cell Splitter By Position
+2018-01-22 11:30:59,946 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.condbox.ConditionalBoxPlotNodeFactory': Conditional Box Plot
+2018-01-22 11:30:59,950 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.columnref.ColumnFilterRefNodeFactory': Reference Column Filter
+2018-01-22 11:30:59,953 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.missingvaluecolfilter.MissingValueColumnFilterNodeFactory': Missing Value Column Filter
+2018-01-22 11:30:59,957 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.rowref.RowFilterRefNodeFactory': Reference Row Filter
+2018-01-22 11:30:59,962 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.collection.list.create2.CollectionCreate2NodeFactory': Create Collection Column
+2018-01-22 11:30:59,967 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.collection.list.split.CollectionSplitNodeFactory': Split Collection Column
+2018-01-22 11:30:59,971 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.regexsplit.RegexSplitNodeFactory': Regex Split
+2018-01-22 11:30:59,993 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.pmml.write.PMMLWriterNodeFactory': PMML Writer
+2018-01-22 11:31:00,005 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.predictor.PredictorWriterNodeFactory': Model Writer
+2018-01-22 11:31:00,014 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.image.writeimage.WriteImageNodeFactory': Image Port Writer
+2018-01-22 11:31:00,021 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.image.imagecolwriter.ImageColumnWriterNodeFactory': Image Column Writer
+2018-01-22 11:31:00,029 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.liftchart.LiftChartNodeFactory': Lift Chart
+2018-01-22 11:31:00,037 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.setoperator.SetOperatorNodeFactory': Set Operator
+2018-01-22 11:31:00,046 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.xvalidation.XValidatePartitionerFactory': X-Partitioner
+2018-01-22 11:31:00,050 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.xvalidation.AggregateOutputNodeFactory': X-Aggregator
+2018-01-22 11:31:00,054 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.LoopStartCountNodeFactory': Counting Loop Start
+2018-01-22 11:31:00,059 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.chunk.LoopStartChunkNodeFactory': Chunk Loop Start
+2018-01-22 11:31:00,063 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.columnlist2.ColumnListLoopStartNodeFactory': Column List Loop Start
+2018-01-22 11:31:00,066 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.condition.LoopStartGenericNodeFactory': Generic Loop Start
+2018-01-22 11:31:00,070 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.variableloophead.LoopStartVariableNodeFactory': Table Row To Variable Loop Start
+2018-01-22 11:31:00,074 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.LoopEndNodeFactory': Loop End
+2018-01-22 11:31:00,079 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.condition.LoopEndConditionNodeFactory': Variable Condition Loop End
+2018-01-22 11:31:00,082 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.extractvariables.ExtractVariablesNodeFactory': Extract Variables (Data)
+2018-01-22 11:31:00,107 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.extractvariables.ExtractVariablesDBNodeFactory': Extract Variables (Database)
+2018-01-22 11:31:00,124 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.createfilename.CreateFilenameNodeFactory': Create File Name
+2018-01-22 11:31:00,139 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.feature.backwardelim.BWElimLoopStart1NodeFactory': Backward Feature Elimination Start (1:1)
+2018-01-22 11:31:00,142 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.feature.backwardelim.BWElimLoopStart2NodeFactory': Backward Feature Elimination Start (2:2)
+2018-01-22 11:31:00,146 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.feature.backwardelim.BWElimLoopEndNodeFactory': Backward Feature Elimination End
+2018-01-22 11:31:00,152 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.feature.backwardelim.BWElimFilterNodeFactory': Backward Feature Elimination Filter
+2018-01-22 11:31:00,158 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.appendvariabletotable2.AppendVariableToTable2NodeFactory': Variable to Table Column
+2018-01-22 11:31:00,163 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.variabletotablerow2.VariableToTable2NodeFactory': Variable to Table Row
+2018-01-22 11:31:00,165 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.tablerowtovariable.TableToVariableNodeFactory': Table Row to Variable
+2018-01-22 11:31:00,169 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.injectvariables.InjectVariablesNodeFactory': Inject Variables (Data)
+2018-01-22 11:31:00,172 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.injectvariables.InjectVariablesDBNodeFactory': Inject Variables (Database)
+2018-01-22 11:31:00,176 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.nominal.NominalValueRowFilterNodeFactory': Nominal Value Row Filter
+2018-01-22 11:31:00,179 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.nominal.NominalValueRowSplitterNodeFactory': Nominal Value Row Splitter
+2018-01-22 11:31:00,182 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.LoopStartIntervalNodeFactory': Interval Loop Start
+2018-01-22 11:31:00,186 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.breakpoint.BreakpointNodeFactory': Breakpoint
+2018-01-22 11:31:00,189 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.unpivot2.Unpivot2NodeFactory': Unpivoting
+2018-01-22 11:31:00,195 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.pca.PCANodeFactory': PCA
+2018-01-22 11:31:00,199 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.pca.PCAComputeNodeFactory': PCA Compute
+2018-01-22 11:31:00,203 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.pca.PCAApplyNodeFactory': PCA Apply
+2018-01-22 11:31:00,206 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.pca.PCAReverseNodeFactory': PCA Inversion
+2018-01-22 11:31:00,213 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.hilite.collector.InteractiveHiLiteCollectorNodeFactory': Interactive HiLite Collector
+2018-01-22 11:31:00,217 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.LoopEnd2NodeFactory': Loop End (2 ports)
+2018-01-22 11:31:00,221 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.matcher.SubsetMatcherNodeFactory': Subset Matcher
+2018-01-22 11:31:00,222 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.matcher.SubsetMatcherNodeFactory': Subset Matcher
+2018-01-22 11:31:00,225 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.image.ImageToTableNodeFactory': Image To Table
+2018-01-22 11:31:00,229 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.image.tablerowtoimage.TableRowToImageNodeFactory': Table To Image
+2018-01-22 11:31:00,232 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.manualif.ManualIfNodeFactory': IF Switch
+2018-01-22 11:31:00,236 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.endif.EndifNodeFactory': End IF
+2018-01-22 11:31:00,240 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.startcase.StartcaseNodeFactory': CASE Switch Data (Start)
+2018-01-22 11:31:00,244 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.endcase.EndcaseNodeFactory': CASE Switch Data (End)
+2018-01-22 11:31:00,249 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.caseswitch.model.CaseStartModelNodeFactory': CASE Switch Model (Start)
+2018-01-22 11:31:00,257 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.endmodelcase.EndmodelcaseNodeFactory': CASE Switch Model (End)
+2018-01-22 11:31:00,262 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.caseswitch.variable.CaseStartVariableNodeFactory': CASE Switch Variable (Start)
+2018-01-22 11:31:00,264 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.caseswitch.variable.CaseEndVariableNodeFactory': CASE Switch Variable (End)
+2018-01-22 11:31:00,269 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.switches.emptytableswitch.EmptyTableSwitchNodeFactory': Empty Table Switch
+2018-01-22 11:31:00,275 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columntogrid2.ColumnToGrid2NodeFactory': Column to Grid
+2018-01-22 11:31:00,283 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnheaderextract.ColumnHeaderExtractorNodeFactory': Extract Column Header
+2018-01-22 11:31:00,288 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnheaderinsert.ColumnHeaderInsertNodeFactory': Insert Column Header
+2018-01-22 11:31:00,294 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.addemptyrows.AddEmptyRowsNodeFactory': Add Empty Rows
+2018-01-22 11:31:00,298 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.cellreplace.CellReplacerNodeFactory': Cell Replacer
+2018-01-22 11:31:00,306 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.autobinner3.AutoBinnerLearnNodeFactory': Auto-Binner
+2018-01-22 11:31:00,309 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.autobinner.apply.AutoBinnerApplyNodeFactory': Auto-Binner (Apply)
+2018-01-22 11:31:00,312 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.LoopEndJoin2NodeFactory': Loop End (Column Append)
+2018-01-22 11:31:00,316 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.listfiles2.ListFilesNodeFactory': List Files
+2018-01-22 11:31:00,321 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.tablecreator.TableCreator2NodeFactory': Table Creator
+2018-01-22 11:31:00,327 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.sampledata.SampleDataNodeFactory': Data Generator
+2018-01-22 11:31:00,331 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.createtablestructure.CreateTableStructureNodeFactory': Create Table Structure
+2018-01-22 11:31:00,335 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.createtempdir.CreateTempDirectoryNodeFactory': Create Temp Dir
+2018-01-22 11:31:00,340 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.sendmail.SendMailNodeFactory': Send Email
+2018-01-22 11:31:00,343 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.extractsysprop.ReadSysPropertyNodeFactory': Extract System Properties
+2018-01-22 11:31:00,348 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.extractcontextprop.ReadContextPropertyNodeFactory': Extract Context Properties
+2018-01-22 11:31:00,352 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.normalize.NormalizerPMMLDeNodeFactory': Denormalizer (PMML)
+2018-01-22 11:31:00,356 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.normalize.NormalizerDeNodeFactory': Denormalizer
+2018-01-22 11:31:00,359 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.property.color.extract.ColorExtractNodeFactory': Extract Color
+2018-01-22 11:31:00,365 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colconvert.categorytonumber2.CategoryToNumberNodeFactory2': Category To Number
+2018-01-22 11:31:00,371 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colconvert.categorytonumber.CategoryToNumberApplyNodeFactory': Category To Number (Apply)
+2018-01-22 11:31:00,374 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory': Column Filter
+2018-01-22 11:31:00,383 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.rounddouble.RoundDoubleNodeFactory': Round Double
+2018-01-22 11:31:00,392 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnresorter.ColumnResorterNodeFactory': Column Resorter
+2018-01-22 11:31:00,398 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.refcolumnresorter.ReferenceColumnResorterNodeFactory': Reference Column Resorter
+2018-01-22 11:31:00,404 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnlag.LagColumnNodeFactory': Lag Column
+2018-01-22 11:31:00,413 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.datavalidator.DataValidatorNodeFactory': Table Validator
+2018-01-22 11:31:00,416 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.datavalidator.DataValidatorSpecNodeFactory': Table Validator (Reference)
+2018-01-22 11:31:00,418 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.mergevariables.MergeVariablesNodeFactory': Merge Variables
+2018-01-22 11:31:00,422 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.group.GroupLoopStartNodeFactory': Group Loop Start
+2018-01-22 11:31:00,425 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.variableloopend.VariableLoopEndNodeFactory': Variable Loop End
+2018-01-22 11:31:00,429 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeFactory': Column Aggregator
+2018-01-22 11:31:00,433 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.bytevector.create.CreateByteVectorNodeFactory': Create Byte Vector
+2018-01-22 11:31:00,435 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.bytevector.expand.ExpandByteVectorNodeFactory': Expand Byte Vector
+2018-01-22 11:31:00,438 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.generictry.DataPortTryNodeFactory': Try (Data Ports)
+2018-01-22 11:31:00,439 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.generictry.VariablePortTryNodeFactory': Try (Variable Ports)
+2018-01-22 11:31:00,445 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.genericcatch.DataPortCatchNodeFactory': Catch Errors (Data Ports)
+2018-01-22 11:31:00,447 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.genericcatch.VariablePortCatchNodeFactory': Catch Errors (Var Ports)
+2018-01-22 11:31:00,448 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.genericcatch.DBPortCatchNodeFactory': Catch Errors (DB Ports)
+2018-01-22 11:31:00,449 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.genericcatch.GenericPortCatchNodeFactory': Catch Errors (Generic Ports)
+2018-01-22 11:31:00,452 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.trycatch.inverter.ActiveBranchInverterNodeFactory': Active Branch Inverter
+2018-01-22 11:31:00,457 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowvariable.tablecoltovariable.TableColumnToVariableNodeFactory': Table Column to Variable
+2018-01-22 11:31:00,461 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.flowcontrol.sleep.SleepNodeFactory': Wait...
+2018-01-22 11:31:00,465 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.workflow.save.SaveWorkflowNodeFactory': Save Workflow
+2018-01-22 11:31:00,468 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.timerinfo.TimerinfoNodeFactory': Timer Info
+2018-01-22 11:31:00,471 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.util.globaltimerinfo.GlobalTimerinfoNodeFactory': Global Timer Info
+2018-01-22 11:31:00,474 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.recursive.RecursiveLoopStartNodeFactory': Recursive Loop Start
+2018-01-22 11:31:00,478 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.recursive.RecursiveLoopEndNodeFactory': Recursive Loop End
+2018-01-22 11:31:00,481 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.recursive.RecursiveLoopStart2NodeFactory': Recursive Loop Start (2 ports)
+2018-01-22 11:31:00,484 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.meta.looper.recursive.RecursiveLoopEnd2NodeFactory': Recursive Loop End (2 ports)
+2018-01-22 11:31:00,491 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.xml2pmml.XML2PMMLNodeFactory': XML To PMML
+2018-01-22 11:31:00,495 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.connection.JDBCConnectorNodeFactory': Database Connector
+2018-01-22 11:31:00,497 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.connection.DBTableSelectorNodeFactory': Database Table Selector
+2018-01-22 11:31:00,501 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.SQLInjectNodeFactory': SQL Inject
+2018-01-22 11:31:00,503 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.SQLExtractNodeFactory': SQL Extract
+2018-01-22 11:31:00,507 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.drop.DBDropTableNodeFactory': Database Drop Table
+2018-01-22 11:31:00,511 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.viz.hilite.AutoHiLiteNodeFactory': HiLite Table
+2018-01-22 11:31:00,518 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colautotypecast.ColumnAutoTypeCasterNodeFactory': Column Auto Type Cast
+2018-01-22 11:31:00,523 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.fixedwidthfr.FixedWidthFRNodeFactory': Fixed Width File Reader
+2018-01-22 11:31:00,527 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.targetshuffling.TargetShufflingNodeFactory': Target Shuffling
+2018-01-22 11:31:00,566 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMeanMissingCellHandlerFactory
+2018-01-22 11:31:00,637 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMeanMissingCellHandlerFactory
+2018-01-22 11:31:00,643 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMovingAverageMissingCellHandlerFactory
+2018-01-22 11:31:00,644 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.DoubleMovingAverageMissingCellHandlerFactory
+2018-01-22 11:31:00,645 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedDoubleValueMissingCellHandlerFactory
+2018-01-22 11:31:00,646 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedDoubleValueMissingCellHandlerFactory
+2018-01-22 11:31:00,647 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MaxMissingCellHandlerFactory
+2018-01-22 11:31:00,648 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MaxMissingCellHandlerFactory
+2018-01-22 11:31:00,650 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.IntegerMeanMissingCellHandlerFactory
+2018-01-22 11:31:00,650 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.IntegerMeanMissingCellHandlerFactory
+2018-01-22 11:31:00,652 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedIntegerValueMissingCellHandlerFactory
+2018-01-22 11:31:00,652 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedIntegerValueMissingCellHandlerFactory
+2018-01-22 11:31:00,654 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MinMissingCellHandlerFactory
+2018-01-22 11:31:00,654 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MinMissingCellHandlerFactory
+2018-01-22 11:31:00,656 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MostFrequentValueMissingCellHandlerFactory
+2018-01-22 11:31:00,656 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MostFrequentValueMissingCellHandlerFactory
+2018-01-22 11:31:00,659 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.NextMissingCellHandlerFactory
+2018-01-22 11:31:00,660 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.NextMissingCellHandlerFactory
+2018-01-22 11:31:00,662 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.RemoveRowMissingCellHandlerFactory
+2018-01-22 11:31:00,663 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.RemoveRowMissingCellHandlerFactory
+2018-01-22 11:31:00,665 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MedianNumberMissingCellHandlerFactory
+2018-01-22 11:31:00,665 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.MedianNumberMissingCellHandlerFactory
+2018-01-22 11:31:00,667 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.PreviousMissingCellHandlerFactory
+2018-01-22 11:31:00,667 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.PreviousMissingCellHandlerFactory
+2018-01-22 11:31:00,669 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.LinearInterpolationMissingCellHandlerFactory
+2018-01-22 11:31:00,670 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.LinearInterpolationMissingCellHandlerFactory
+2018-01-22 11:31:00,672 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory
+2018-01-22 11:31:00,672 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory
+2018-01-22 11:31:00,674 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.AverageInterpolationMissingCellHandlerFactory
+2018-01-22 11:31:00,674 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.timeseries.AverageInterpolationMissingCellHandlerFactory
+2018-01-22 11:31:00,676 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedLongValueMissingCellHandlerFactory
+2018-01-22 11:31:00,677 : DEBUG : Worker-1 : MissingCellHandlerDescriptionFactory :  :  : Loading description for factory: class org.knime.base.node.preproc.pmml.missingval.handlers.FixedLongValueMissingCellHandlerFactory
+2018-01-22 11:31:00,691 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.missingval.compute.MissingValueHandlerNodeFactory': Missing Value
+2018-01-22 11:31:00,694 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.missingval.apply.MissingValueApplyNodeFactory': Missing Value (Apply)
+2018-01-22 11:31:00,698 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.extractmissingvaluecause.ExtractMissingValueCauseNodeFactory': Extract Missing Value Cause
+2018-01-22 11:31:00,702 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colconvert.numbertocategory.NumberToCategoryApplyNodeFactory': Number To Category (Apply)
+2018-01-22 11:31:00,705 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.columnrename.DBColumnRenameNodeFactory': Database Column Rename
+2018-01-22 11:31:00,711 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.normalize.NormalizerPMMLNodeFactory2': Normalizer (PMML)
+2018-01-22 11:31:00,716 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.numbertostring.NumberToStringNodeFactory2': Number To String (PMML)
+2018-01-22 11:31:00,722 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.stringtonumber.StringToNumberNodeFactory2': String To Number (PMML)
+2018-01-22 11:31:00,725 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.binner.BinnerNodeFactory2': Numeric Binner (PMML)
+2018-01-22 11:31:00,727 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.columntrans2.One2ManyCol2PMMLNodeFactory2': One to Many (PMML)
+2018-01-22 11:31:00,729 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.pmml.columntrans2.Many2OneCol2PMMLNodeFactory2': Many to One (PMML)
+2018-01-22 11:31:00,737 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.decisiontree2.learner2.DecisionTreeLearnerNodeFactory3': Decision Tree Learner
+2018-01-22 11:31:00,743 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.regression.linear2.learner.LinReg2LearnerNodeFactory2': Linear Regression Learner
+2018-01-22 11:31:00,749 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.regression.polynomial.learner2.PolyRegLearnerNodeFactory2': Polynomial Regression Learner
+2018-01-22 11:31:00,753 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.neural.rprop.RPropNodeFactory2': RProp MLP Learner
+2018-01-22 11:31:00,760 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.svm.learner.SVMLearnerNodeFactory2': SVM Learner
+2018-01-22 11:31:00,765 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.bayes.naivebayes.learner2.NaiveBayesLearnerNodeFactory3': Naive Bayes Learner
+2018-01-22 11:31:00,771 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.kmeans.ClusterNodeFactory2': k-Means
+2018-01-22 11:31:00,777 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.pivot.DBPivotNodeFactory': Database Pivot
+2018-01-22 11:31:00,784 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.sampling.DBSamplingNodeFactory': Database Sampling
+2018-01-22 11:31:00,789 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.binning.auto.DBAutoBinnerNodeFactory': Database Auto-Binner
+2018-01-22 11:31:00,792 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.binning.numeric.DBNumericBinnerNodeFactory': Database Numeric-Binner
+2018-01-22 11:31:00,794 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.database.binning.apply.DBApplyBinnerNodeFactory': Database Apply-Binner
+2018-01-22 11:31:00,797 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.rowref.RowSplitRefNodeFactory': Reference Row Splitter
+2018-01-22 11:31:00,800 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.columnref.ColumnSplitRefNodeFactory': Reference Column Splitter
+2018-01-22 11:31:00,805 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.rank.RankNodeFactory': Rank
+2018-01-22 11:31:00,806 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.rowref.RowSplitRefNodeFactory': Reference Row Splitter
+2018-01-22 11:31:00,807 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.columnref.ColumnSplitRefNodeFactory': Reference Column Splitter
+2018-01-22 11:31:00,808 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.rank.RankNodeFactory': Rank
+2018-01-22 11:31:00,814 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.double2int2.DoubleToIntNodeFactory': Double To Int
+2018-01-22 11:31:00,815 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.io.pmml.read.PMMLReaderNodeFactory2': PMML Reader
+2018-01-22 11:31:00,831 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.definition.merger.FilterDefinitionMergerNodeFactory': Filter Definition Merger
+2018-01-22 11:31:00,834 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.definition.apply.FilterApplyNodeFactory': Filter Apply
+2018-01-22 11:31:00,837 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.filter.definition.apply.rowsplitter.FilterApplyRowSplitterNodeFactory': Filter Apply Row Splitter
+2018-01-22 11:31:00,845 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.regression.logistic.learner4.LogRegLearnerNodeFactory4': Logistic Regression Learner
+2018-01-22 11:31:00,848 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.regression.logistic.predictor.LogisticRegressionPredictorNodeFactory': Logistic Regression Predictor
+2018-01-22 11:31:00,857 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.learner.classification.TreeEnsembleClassificationLearnerNodeFactory': Tree Ensemble Learner
+2018-01-22 11:31:00,861 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.predictor.classification.TreeEnsembleClassificationPredictorNodeFactory': Tree Ensemble Predictor
+2018-01-22 11:31:00,864 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.modelextractor.TreeEnsembleModelExtractorNodeFactory': Tree Ensemble Model Extract
+2018-01-22 11:31:00,868 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.learner.regression.TreeEnsembleRegressionLearnerNodeFactory': Tree Ensemble Learner (Regression)
+2018-01-22 11:31:00,872 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.predictor.regression.TreeEnsembleRegressionPredictorNodeFactory': Tree Ensemble Predictor (Regression)
+2018-01-22 11:31:00,876 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.randomforest.learner.classification.RandomForestClassificationLearnerNodeFactory': Random Forest Learner
+2018-01-22 11:31:00,879 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.randomforest.learner.regression.RandomForestRegressionLearnerNodeFactory': Random Forest Learner (Regression)
+2018-01-22 11:31:00,882 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.randomforest.predictor.classification.RandomForestClassificationPredictorNodeFactory': Random Forest Predictor
+2018-01-22 11:31:00,885 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.randomforest.predictor.regression.RandomForestRegressionPredictorNodeFactory': Random Forest Predictor (Regression)
+2018-01-22 11:31:00,892 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.regressiontree.learner.RegressionTreeLearnerNodeFactory': Simple Regression Tree Learner
+2018-01-22 11:31:00,896 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.regressiontree.predictor.RegressionTreePredictorNodeFactory': Simple Regression Tree Predictor
+2018-01-22 11:31:00,900 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.gradientboosting.learner.regression.GradientBoostingRegressionLearnerNodeFactory': Gradient Boosted Trees Learner (Regression)
+2018-01-22 11:31:00,903 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.gradientboosting.predictor.regression.GradientBoostingPredictorNodeFactory': Gradient Boosted Trees Predictor (Regression)
+2018-01-22 11:31:00,907 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.gradientboosting.learner.classification.GradientBoostingClassificationLearnerNodeFactory': Gradient Boosted Trees Learner
+2018-01-22 11:31:00,910 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.gradientboosting.predictor.classification.GradientBoostingClassificationPredictorNodeFactory': Gradient Boosted Trees Predictor
+2018-01-22 11:31:00,914 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.distance.node.RandomForestDistanceCreatorNodeFactory': Random Forest Distance
+2018-01-22 11:31:00,918 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.statistics.TreeEnsembleStatisticsNodeFactory': Tree Ensemble Statistics
+2018-01-22 11:31:00,920 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.treeensemble2.node.regressiontree.pmmltranslator.RegressionTreePMMLTranslatorNodeFactory': Simple Regression Tree to PMML
+2018-01-22 11:31:00,924 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.bigdata.vertica.node.connector.VerticaConnectorNodeFactory': Vertica Connector
+2018-01-22 11:31:00,925 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.database.connectors.sqlite.SQLiteConnectorNodeFactory': SQLite Connector
+2018-01-22 11:31:00,930 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.database.connectors.mysql.MySQLConnectorNodeFactory': MySQL Connector
+2018-01-22 11:31:00,934 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.database.connectors.postgresql.PostgreSQLConnectorNodeFactory': PostgreSQL Connector
+2018-01-22 11:31:00,938 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.database.connectors.h2.H2ConnectorNodeFactory': H2 Connector
+2018-01-22 11:31:00,942 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.database.connectors.sqlserver.SQLServerConnectorNodeFactory': Microsoft SQL Server Connector
+2018-01-22 11:31:00,948 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.io.read.DistanceMatrixReadNodeFactory': Distance Matrix Reader
+2018-01-22 11:31:00,953 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.io.write.DistanceMatrixWriteNodeFactory': Distance Matrix Writer
+2018-01-22 11:31:00,964 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.mds.MDSDistanceNodeFactory': MDS (DistMatrix)
+2018-01-22 11:31:00,968 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.mds.mdsprojection.MDSDistanceProjectionNodeFactory': MDS Projection (DistMatrix)
+2018-01-22 11:31:00,975 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.similaritysearch.SimilaritySearchNodeFactory': Similarity Search
+2018-01-22 11:31:00,980 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.calculate2.DistanceMatrixCalculate2NodeFactory': Distance Matrix Calculate
+2018-01-22 11:31:00,986 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.pair.PairExtractorNodeFactory': Distance Matrix Pair Extractor
+2018-01-22 11:31:01,006 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.node.mine.treeensemble2.distance.RandomForestDistanceFactory'
+2018-01-22 11:31:01,008 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distmatrix.calculate.measure.MatrixDistanceFactory'
+2018-01-22 11:31:01,009 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.measure.OldDistanceWrapperDistanceFactory'
+2018-01-22 11:31:01,011 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory'
+2018-01-22 11:31:01,013 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.string.tversky.TverskyDistanceFactory'
+2018-01-22 11:31:01,014 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory'
+2018-01-22 11:31:01,015 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory'
+2018-01-22 11:31:01,016 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.CosineDistanceMeasureFactory'
+2018-01-22 11:31:01,017 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory'
+2018-01-22 11:31:01,018 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory'
+2018-01-22 11:31:01,019 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.base.distance.bytevector.PNormDistanceMeasureFactory'
+2018-01-22 11:31:01,019 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory'
+2018-01-22 11:31:01,020 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.numerical.cosine.CosineDistanceFactory'
+2018-01-22 11:31:01,021 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.jsnippet.JSnippetDistanceFactory'
+2018-01-22 11:31:01,023 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.jsnippet.aggregated.AggregatedDistanceFactory'
+2018-01-22 11:31:01,024 : DEBUG : Worker-1 : DistanceMeasureRepository :  :  : added factory: 'org.knime.distance.measure.mahalanobis.MahalanobisDistanceFactory'
+2018-01-22 11:31:01,030 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2018-01-22 11:31:01,048 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2018-01-22 11:31:01,050 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2018-01-22 11:31:01,051 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.lnorm.LNormDistanceFactory
+2018-01-22 11:31:01,053 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,054 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,055 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,055 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.numerical.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,063 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distance.measure.numerical.NumericalDistanceNodeFactory': Numeric Distances
+2018-01-22 11:31:01,065 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,066 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,067 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,067 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,069 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2018-01-22 11:31:01,070 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2018-01-22 11:31:01,071 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2018-01-22 11:31:01,072 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.string.levenshtein.LevenshteinDistanceFactory
+2018-01-22 11:31:01,079 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distance.measure.string.StringDistanceNodeFactory': String Distances
+2018-01-22 11:31:01,081 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,081 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,082 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,082 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.tversky.TverskyDistanceFactory
+2018-01-22 11:31:01,084 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,084 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,085 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,085 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.distance.measure.bitvector.cosine.CosineDistanceFactory
+2018-01-22 11:31:01,092 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distance.measure.bitvector.BitVectorDistanceNodeFactory': Bit Vector Distances
+2018-01-22 11:31:01,098 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distance.measure.mahalanobis.MahalanobisDistanceNodeFactory': Mahalanobis Distance
+2018-01-22 11:31:01,101 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.calculate.measure.MatrixDistanceNodeFactory': Matrix Distance
+2018-01-22 11:31:01,105 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distance.measure.jsnippet.aggregated.AggregatedDistanceNodeFactory': Aggregated Distance
+2018-01-22 11:31:01,110 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distance.measure.jsnippet.JSnippetDistanceNodeFactory': Java Distance
+2018-01-22 11:31:01,116 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.kmedoids.KMedoidsNodeFactory': k-Medoids
+2018-01-22 11:31:01,119 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.hierarchical.ParHieClusterNodeFactory': Hierarchical Clustering (DistMatrix)
+2018-01-22 11:31:01,124 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.hierarchical.view.HierarchicalClusterViewNodeFactory': Hierarchical Cluster View
+2018-01-22 11:31:01,127 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.cluster.hierarchical.assigner.ClusterAssignerNodeFactory': Hierarchical Cluster Assigner
+2018-01-22 11:31:01,131 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2018-01-22 11:31:01,132 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2018-01-22 11:31:01,132 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2018-01-22 11:31:01,133 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.EuclideanDistanceMeasureFactory
+2018-01-22 11:31:01,134 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2018-01-22 11:31:01,135 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2018-01-22 11:31:01,135 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2018-01-22 11:31:01,136 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.CosineDistanceMeasureFactory
+2018-01-22 11:31:01,137 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2018-01-22 11:31:01,137 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2018-01-22 11:31:01,138 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2018-01-22 11:31:01,138 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.PNormDistanceMeasureFactory
+2018-01-22 11:31:01,139 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2018-01-22 11:31:01,140 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2018-01-22 11:31:01,140 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2018-01-22 11:31:01,141 : DEBUG : Worker-1 : DistanceMeasureDescriptionFactory :  :  : Loading description for factory: class org.knime.base.distance.bytevector.ManhattanDistanceMeasureFactory
+2018-01-22 11:31:01,146 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.distance.bytevector.ByteVectorDistanceNodeFactory': Byte Vector Distances
+2018-01-22 11:31:01,150 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.distmatrix.knn.KnnDistNodeFactory': K Nearest Neighbor (Distance Function)
+2018-01-22 11:31:01,154 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.mine.dbscan.DBSCANNodeFactory': DBSCAN
+2018-01-22 11:31:01,158 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.pmmlporttocell.PMMLPortToCellNodeFactory': PMML To Cell
+2018-01-22 11:31:01,161 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.modeltotable.ModelToTableNodeFactory': Model to Cell
+2018-01-22 11:31:01,164 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.tabletomodel.TableToModelNodeFactory': Cell To Model
+2018-01-22 11:31:01,166 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.boosting.BoostingLearnerLoopStartNodeFactory': Boosting Learner Loop Start
+2018-01-22 11:31:01,170 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.boosting.BoostingLearnerLoopEndNodeFactory': Boosting Learner Loop End
+2018-01-22 11:31:01,172 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.boosting.BoostingPredictorLoopStartNodeFactory': Boosting Predictor Loop Start
+2018-01-22 11:31:01,176 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.boosting.BoostingPredictorLoopEndNodeFactory': Boosting Predictor Loop End
+2018-01-22 11:31:01,179 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.bagging.ModelLoopStartNodeFactory': Model Loop Start
+2018-01-22 11:31:01,181 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.bagging.ModelLoopEndNodeFactory': Model Loop End
+2018-01-22 11:31:01,184 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.tabletopmmlport.TableToPMMLNodeFactory': Cell To PMML
+2018-01-22 11:31:01,187 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.voting.VotingLoopEndNodeFactory': Voting Loop End
+2018-01-22 11:31:01,190 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.pmmlpredict2.PMMLPredictor2NodeFactory': PMML Predictor
+2018-01-22 11:31:01,194 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.pmml.combine.PMMLEnsembleNodeFactory': Table to PMML Ensemble
+2018-01-22 11:31:01,196 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.pmml.totable.PMMLEnsemble2TableNodeFactory': PMML Ensemble to Table
+2018-01-22 11:31:01,201 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.pmml.predictor2.PMMLEnsemblePredictor2NodeFactory': PMML Ensemble Predictor
+2018-01-22 11:31:01,204 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.pmml.loopend.PMMLEnsembleLoopEndNodeFactory': PMML Ensemble Loop End
+2018-01-22 11:31:01,207 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ensembles.predictionfusion.PredictionFusionNodeFactory': Prediction Fusion
+2018-01-22 11:31:01,211 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.explorer.nodes.callworkflow.local.CallLocalWorkflowNodeFactory': Call Local Workflow
+2018-01-22 11:31:01,213 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.explorer.nodes.browser.ExplorerBrowserNodeFactory': Explorer Browser
+2018-01-22 11:31:01,216 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.explorer.nodes.writer.ExplorerWriterNodeFactory': Explorer Writer
+2018-01-22 11:31:01,224 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.jep.JEPNodeFactory': Math Formula
+2018-01-22 11:31:01,227 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.jep.variable.JEPVariableNodeFactory': Math Formula (Variable)
+2018-01-22 11:31:01,239 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.js.node.quickform.input.molecule.MoleculeStringInputQuickFormNodeFactory': Molecule String Input
+2018-01-22 11:31:01,245 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.libsvm.learner.LIBSVMLearnerNodeFactory': LIBSVMLearner
+2018-01-22 11:31:01,247 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.libsvm.predictor.LIBSVMPredictorNodeFactory': LIBSVMPredictor
+2018-01-22 11:31:01,268 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.poi2.node.write2.XLSWriter2NodeFactory': Excel Writer (XLS)
+2018-01-22 11:31:01,270 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.poi2.node.write2.XLSAppenderNodeFactory': Excel Sheet Appender (XLS)
+2018-01-22 11:31:01,272 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.poi2.node.read3.XLSReaderNodeFactory': Excel Reader (XLS)
+2018-01-22 11:31:01,274 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.poi2.node.readsheets.XLSSheetReaderNodeFactory': Read Excel Sheet Names (XLS)
+2018-01-22 11:31:01,281 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.sun.nodes.script.JavaScriptingNodeFactory': Java Snippet (simple)
+2018-01-22 11:31:01,284 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.sun.nodes.script.node.rowfilter.JavaRowFilterNodeFactory': Java Snippet Row Filter
+2018-01-22 11:31:01,286 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.sun.nodes.script.node.rowsplitter.JavaRowSplitterNodeFactory': Java Snippet Row Splitter
+2018-01-22 11:31:01,291 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.sun.nodes.script.node.editvar.JavaEditVariableNodeFactory': Java Edit Variable (simple)
+2018-01-22 11:31:01,295 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.sun.nodes.script.node.ifswitch.JavaIfSwitchNodeFactory': Java IF (Table)
+2018-01-22 11:31:01,300 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.svg.node.sparklines.SparkLineNodeFactory': Spark Line Appender
+2018-01-22 11:31:01,306 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.ext.svg.node.radarplot.RadarplotAppenderFactory': Radar Plot Appender
+2018-01-22 11:31:01,311 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.renderer2image.Renderer2ImageNodeFactory': Renderer to Image
+2018-01-22 11:31:01,316 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.image.readimage.ReadImageFromUrlNodeFactory': Read Images
+2018-01-22 11:31:01,320 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.colconvert.stringtosvg.StringToSvgNodeFactory': String To SVG
+2018-01-22 11:31:01,323 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.string.StringInputQuickFormNodeFactory': String Input
+2018-01-22 11:31:01,327 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.bool.BooleanInputQuickFormNodeFactory': Boolean Input
+2018-01-22 11:31:01,330 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.integer.IntInputQuickFormNodeFactory': Integer Input
+2018-01-22 11:31:01,333 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.dbl.DoubleInputQuickFormNodeFactory': Double Input
+2018-01-22 11:31:01,337 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.date2.DateInput2QuickFormNodeFactory': Date&Time Input
+2018-01-22 11:31:01,343 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.credentials.CredentialsInputQuickFormNodeFactory': Credentials Input
+2018-01-22 11:31:01,347 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.listbox.ListBoxInputQuickFormNodeFactory': List Box Input
+2018-01-22 11:31:01,352 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.selection.single.SingleSelectionQuickFormNodeFactory': Single Selection
+2018-01-22 11:31:01,357 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.selection.multiple.MultipleSelectionQuickFormNodeFactory': Multiple Selections
+2018-01-22 11:31:01,360 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.selection.value.ValueSelectionQuickFormNodeFactory': Value Selection
+2018-01-22 11:31:01,365 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.filter.value.ValueFilterQuickFormNodeFactory': Value Filter
+2018-01-22 11:31:01,368 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.selection.column.ColumnSelectionQuickFormNodeFactory': Column Selection
+2018-01-22 11:31:01,371 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.filter.column.ColumnFilterQuickFormNodeFactory': Column Filter
+2018-01-22 11:31:01,375 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.fileupload.FileUploadQuickFormNodeFactory': File Upload
+2018-01-22 11:31:01,378 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.output.filedownload.FileDownloadNodeFactory': File Download
+2018-01-22 11:31:01,381 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.output.image.ImageOutputNodeFactory': Image Output
+2018-01-22 11:31:01,384 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.output.text.TextOutputNodeFactory': Text Output
+2018-01-22 11:31:01,387 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.filechooser.FileChooserQuickFormNodeFactory': File Chooser
+2018-01-22 11:31:01,397 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.input.slider.SliderInputQuickFormNodeFactory': Slider Input
+2018-01-22 11:31:01,404 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.js.base.node.quickform.filter.rangeslider.RangeSliderFilterNodeFactory': Range Slider Filter Definition
+2018-01-22 11:31:01,487 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.json.JSONValue to javax.json.JsonValue
+2018-01-22 11:31:01,487 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.StringValue to java.lang.String
+2018-01-22 11:31:01,487 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.IntValue to java.lang.Integer
+2018-01-22 11:31:01,487 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.LongValue to java.lang.Long
+2018-01-22 11:31:01,487 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.DoubleValue to java.lang.Double
+2018-01-22 11:31:01,488 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.xml.XMLValue to org.w3c.dom.Document
+2018-01-22 11:31:01,488 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.time.zoneddatetime.ZonedDateTimeValue to java.time.ZonedDateTime
+2018-01-22 11:31:01,488 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.time.localtime.LocalTimeValue to java.time.LocalTime
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.base.data.xml.SvgValue to org.w3c.dom.svg.SVGDocument
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.time.localdate.LocalDateValue to java.time.LocalDate
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.vector.bitvector.BitVectorValue to java.lang.String
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.BooleanValue to java.lang.Boolean
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.time.duration.DurationValue to java.time.Duration
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.blob.BinaryObjectDataValue to java.io.InputStream
+2018-01-22 11:31:01,489 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.time.localdatetime.LocalDateTimeValue to java.time.LocalDateTime
+2018-01-22 11:31:01,490 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Registered DataCellToJavaConverterFactory from DataValueAccessMethod annotation for org.knime.core.data.time.period.PeriodValue to java.time.Period
+2018-01-22 11:31:01,490 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Found ConverterProvider extension: org.eclipse.core.internal.registry.ExtensionHandle@1909
+2018-01-22 11:31:01,494 : DEBUG : Worker-1 : DataCellToJavaConverterRegistry :  :  : Found ConverterProvider extension: org.eclipse.core.internal.registry.ExtensionHandle@1909
+2018-01-22 11:31:01,535 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: javax.json.JsonValue to JSON
+2018-01-22 11:31:01,535 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: int to Number (integer)
+2018-01-22 11:31:01,536 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.time.ZonedDateTime to Zoned Date Time
+2018-01-22 11:31:01,537 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to Zoned Date Time
+2018-01-22 11:31:01,537 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.time.LocalTime to Local Time
+2018-01-22 11:31:01,537 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to Local Time
+2018-01-22 11:31:01,537 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.io.Reader to SVG image
+2018-01-22 11:31:01,537 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.io.InputStream to SVG image
+2018-01-22 11:31:01,537 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to SVG image
+2018-01-22 11:31:01,538 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: double to Number (double)
+2018-01-22 11:31:01,538 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: int to Number (long)
+2018-01-22 11:31:01,538 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: long to Number (long)
+2018-01-22 11:31:01,538 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.io.InputStream to XML
+2018-01-22 11:31:01,538 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: org.w3c.dom.Document to XML
+2018-01-22 11:31:01,538 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to XML
+2018-01-22 11:31:01,539 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.time.LocalDate to Local Date
+2018-01-22 11:31:01,539 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to Local Date
+2018-01-22 11:31:01,540 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: boolean to Boolean value
+2018-01-22 11:31:01,540 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to String
+2018-01-22 11:31:01,540 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.io.Reader to String
+2018-01-22 11:31:01,540 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.io.InputStream to String
+2018-01-22 11:31:01,540 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.time.Duration to Duration
+2018-01-22 11:31:01,540 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to Duration
+2018-01-22 11:31:01,541 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.io.InputStream to Binary object
+2018-01-22 11:31:01,541 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: [B to Binary object
+2018-01-22 11:31:01,541 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.time.LocalDateTime to Local Date Time
+2018-01-22 11:31:01,541 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to Local Date Time
+2018-01-22 11:31:01,542 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.time.Period to Period
+2018-01-22 11:31:01,542 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Registered JavaToDataCellConverterFactory from DataCellFactoryMethod annotation for: java.lang.String to Period
+2018-01-22 11:31:01,542 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Found ConverterProvider extension: org.eclipse.core.internal.registry.ExtensionHandle@190c
+2018-01-22 11:31:01,543 : DEBUG : Worker-1 : JavaToDataCellConverterRegistry :  :  : Found ConverterProvider extension: org.eclipse.core.internal.registry.ExtensionHandle@190c
+2018-01-22 11:31:01,545 : DEBUG : Worker-1 : JavaSnippetActivator :  :  : Cached custom type classpaths [139 ms]
+2018-01-22 11:31:01,551 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.jsnippet.JavaSnippetNodeFactory': Java Snippet
+2018-01-22 11:31:01,555 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.jsnippet.JavaEditVarNodeFactory': Java Edit Variable
+2018-01-22 11:31:01,558 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.RuleEngineVariableNodeFactory': Rule Engine Variable
+2018-01-22 11:31:01,564 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.twoports.RuleEngineVariable2PortsNodeFactory': Rule Engine Variable (Dictionary)
+2018-01-22 11:31:01,568 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory': String Manipulation
+2018-01-22 11:31:01,571 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.RuleEngineNodeFactory': Rule Engine
+2018-01-22 11:31:01,576 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.RuleEngineFilterNodeFactory': Rule-based Row Filter
+2018-01-22 11:31:01,578 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.RuleEngineSplitterNodeFactory': Rule-based Row Splitter
+2018-01-22 11:31:01,583 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.twoports.RuleEngine2PortsNodeFactory': Rule Engine (Dictionary)
+2018-01-22 11:31:01,586 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.twoports.RuleEngineFilter2PortsNodeFactory': Rule-based Row Filter (Dictionary)
+2018-01-22 11:31:01,588 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.twoports.RuleEngineSplitter2PortsNodeFactory': Rule-based Row Splitter (Dictionary)
+2018-01-22 11:31:01,592 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.pmml.PMMLRuleEditorNodeFactory': Ruleset Editor
+2018-01-22 11:31:01,601 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.pmml.PMMLRuleSetPredictorNodeFactory': Ruleset Predictor
+2018-01-22 11:31:01,603 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.totable.RulesToTableNodeFactory': Ruleset to Table
+2018-01-22 11:31:01,607 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.rules.engine.decisiontree.FromDecisionTreeNodeFactory': Decision Tree to Ruleset
+2018-01-22 11:31:01,610 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.preproc.stringmanipulation.variable.StringManipulationVariableNodeFactory': String Manipulation (Variable)
+2018-01-22 11:31:01,612 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.reader.JSONReaderNodeFactory': JSON Reader
+2018-01-22 11:31:01,618 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.writer.JSONWriterNodeFactory': JSON Writer
+2018-01-22 11:31:01,622 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.fromstring.StringToJSONNodeFactory': String to JSON
+2018-01-22 11:31:01,634 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.fromtable.TableToJsonNodeFactory': Table to JSON
+2018-01-22 11:31:01,639 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.totable.JSONToTableNodeFactory': JSON to Table
+2018-01-22 11:31:01,644 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.tojson.ColumnsToJsonNodeFactory': Columns to JSON
+2018-01-22 11:31:01,646 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.fromxml.XMLToJSONNodeFactory': XML To JSON
+2018-01-22 11:31:01,651 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.toxml.JSONToXMLNodeFactory': JSON To XML
+2018-01-22 11:31:01,666 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.jsonpath.multi.JSONPathNodeFactory': JSON Path
+2018-01-22 11:31:01,671 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.jsonpath.dict.JSONPathDictNodeFactory': JSON Path (Dictionary)
+2018-01-22 11:31:01,674 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.combine.column.ColumnCombineJsonNodeFactory': JSON Column Combiner
+2018-01-22 11:31:01,678 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.combine.row.RowCombineJsonNodeFactory': JSON Row Combiner
+2018-01-22 11:31:01,681 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.combine.row.CombineAndWriteJsonNodeFactory': JSON Row Combiner and Writer
+2018-01-22 11:31:01,686 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.patch.apply.JSONPatchApplyNodeFactory': JSON Transformer
+2018-01-22 11:31:01,690 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.schema.check.JSONSchemaCheckNodeFactory': JSON Schema Validator
+2018-01-22 11:31:01,694 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.patch.create.JSONPatchCreateNodeFactory': JSON Diff
+2018-01-22 11:31:01,697 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.input.JSONInputNodeFactory': JSON Input
+2018-01-22 11:31:01,703 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.json.node.output.JSONOutputNodeFactory': JSON Output
+2018-01-22 11:31:01,708 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.testing.ttest.OneSampleTTestNodeFactory': Single sample t-test
+2018-01-22 11:31:01,711 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.testing.ttest.TwoSampleTTestNodeFactory': Independent groups t-test
+2018-01-22 11:31:01,715 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.testing.ttest.PairedTTestNodeFactory': Paired t-test
+2018-01-22 11:31:01,719 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.testing.anova.OneWayANOVANodeFactory': One-way ANOVA
+2018-01-22 11:31:01,724 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory': Statistics
+2018-01-22 11:31:01,729 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.correlation.cronbach.CronbachNodeFactory': Cronbach Alpha
+2018-01-22 11:31:01,733 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.correlation.standcronbach.StandCronbachNodeFactory': Standardized Cronbach Alpha
+2018-01-22 11:31:01,736 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.base.node.stats.correlation.rank.RankCorrelationComputeNodeFactory': Rank Correlation
+2018-01-22 11:31:01,740 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.newtoold.NewToOldTimeNodeFactory': Date&Time to legacy Date&Time
+2018-01-22 11:31:01,744 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.oldtonew.OldToNewTimeNodeFactory': Legacy Date&Time to Date&Time
+2018-01-22 11:31:01,751 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.stringtodatetime.StringToDateTimeNodeFactory': String to Date&Time
+2018-01-22 11:31:01,758 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.datetimetostring.DateTimeToStringNodeFactory': Date&Time to String
+2018-01-22 11:31:01,762 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.manipulate.modifytime.ModifyTimeNodeFactory': Modify Time
+2018-01-22 11:31:01,769 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.manipulate.modifydate.ModifyDateNodeFactory': Modify Date
+2018-01-22 11:31:01,772 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.manipulate.modifytimezone.ModifyTimeZoneNodeFactory': Modify Time Zone
+2018-01-22 11:31:01,777 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.manipulate.datetimeshift.DateTimeShiftNodeFactory': Date&Time Shift
+2018-01-22 11:31:01,780 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.durationperiodtostring.DurationPeriodToStringNodeFactory': Duration to String
+2018-01-22 11:31:01,785 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.stringtodurationperiod.StringToDurationPeriodNodeFactory': String to Duration
+2018-01-22 11:31:01,789 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.filter.datetimebasedrowfilter.DateTimeBasedRowFilterNodeFactory': Date&Time-based Row Filter
+2018-01-22 11:31:01,792 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.extract.durationperiod.ExtractDurationPeriodFieldsNodeFactory': Extract Duration Fields
+2018-01-22 11:31:01,797 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.calculate.datetimedifference.DateTimeDifferenceNodeFactory': Date&Time Difference
+2018-01-22 11:31:01,804 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.extract.datetime.ExtractDateTimeFieldsNodeFactory': Extract Date&Time Fields
+2018-01-22 11:31:01,808 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.create.createdatetime.CreateDateTimeNodeFactory': Create Date&Time Range
+2018-01-22 11:31:01,811 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.durationtonumber.DurationToNumberNodeFactory': Duration to Number
+2018-01-22 11:31:01,816 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.time.node.convert.timestamptodatetime.TimestampToDateTimeNodeFactory': UNIX Timestamp to Date&Time
+2018-01-22 11:31:01,822 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.filter.extract.ExtractTimeWindowNodeFactory': Extract Time Window (legacy)
+2018-01-22 11:31:01,825 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.movavg.MovingAverageNodeFactory': Moving Average
+2018-01-22 11:31:01,829 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.stringtotimestamp.String2DateNodeFactory': String to Date/Time (legacy)
+2018-01-22 11:31:01,834 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.diff.TimeDifferenceNodeFactory': Time Difference (legacy)
+2018-01-22 11:31:01,837 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.generator.DateGeneratorNodeFactory': Time Generator (legacy)
+2018-01-22 11:31:01,840 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.extract.time.TimeFieldExtractorNodeFactory': Time Field Extractor (legacy)
+2018-01-22 11:31:01,843 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.time2string.Time2StringNodeFactory': Time to String (legacy)
+2018-01-22 11:31:01,845 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.preset.TimePresetNodeFactory': Preset Date/Time (legacy)
+2018-01-22 11:31:01,849 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.mask.MaskTimeNodeFactory': Mask Date/Time (legacy)
+2018-01-22 11:31:01,855 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.extract.date.DateFieldExtractorNodeFactory': Date Field Extractor (legacy)
+2018-01-22 11:31:01,860 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.movagg.MovingAggregationNodeFactory': Moving Aggregation
+2018-01-22 11:31:01,863 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.timeseries.node.dateshift.DateShiftNodeFactory': Date/Time Shift (legacy)
+2018-01-22 11:31:01,865 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.reader.XMLReaderNodeFactory': XML Reader
+2018-01-22 11:31:01,868 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.writer.XMLWriterNodeFactory': XML Writer
+2018-01-22 11:31:01,871 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.stringtoxml.StringToXMLNodeFactory': String To XML
+2018-01-22 11:31:01,879 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.xpath2.XPathNodeFactory': XPath
+2018-01-22 11:31:01,883 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.xslt.XSLTNodeFactory': XSLT
+2018-01-22 11:31:01,888 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.columntoxml.ColumnToXMLNodeFactory': Column To XML
+2018-01-22 11:31:01,891 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.ccombine2.XMLColumnCombinerNodeFactory': XML Column Combiner
+2018-01-22 11:31:01,894 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.rcombine.XMLRowCombinerNodeFactory': XML Row Combiner
+2018-01-22 11:31:01,896 : DEBUG : Worker-1 : RepositoryManager :  :  : Found node extension 'org.knime.xml.node.combinewriter.XMLCombineWriterNodeFactory': XML Row Combine and Write
+2018-01-22 11:31:01,897 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Cross Validation/
+2018-01-22 11:31:01,898 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Cross Validation
+2018-01-22 11:31:01,970 : DEBUG : Worker-1 : NodeTimer$GlobalNodeStats :  :  : Node usage file does not exist. Starting counts from scratch.
+2018-01-22 11:31:01,992 : DEBUG : Worker-1 : NodeContainer :  :  : ROOT  has new state: EXECUTED
+2018-01-22 11:31:01,992 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 
+2018-01-22 11:31:01,992 : DEBUG : Worker-1 : NodeContainer :  :  : KNIME MetaNode Repository 1 has new state: EXECUTED
+2018-01-22 11:31:01,992 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1
+2018-01-22 11:31:01,993 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new subworkflow 1
+2018-01-22 11:31:01,993 : DEBUG : Worker-1 : WorkflowManager :  :  : Created project 1
+2018-01-22 11:31:02,018 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Cross Validation") is not locked
+2018-01-22 11:31:02,020 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Cross Validation" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,030 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:0
+2018-01-22 11:31:02,030 : DEBUG : Worker-1 : NodeContainer :  :  : KNIME MetaNode Repository 1 has new state: IDLE
+2018-01-22 11:31:02,041 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Cross Validation : 1:0 : Workflow being loaded ("X_Aggregator (#1)") is not locked
+2018-01-22 11:31:02,048 : DEBUG : Worker-1 : AggregateOutputNodeFactory : Cross Validation : 1:0 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,088 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Cross Validation : 1:0 : Workflow being loaded ("X_Partitioner (#2)") is not locked
+2018-01-22 11:31:02,091 : DEBUG : Worker-1 : XValidatePartitionerFactory : Cross Validation : 1:0 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,092 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Cross Validation : 1:0 : Workflow being loaded ("Decision Tree Learner (#14)") is not locked
+2018-01-22 11:31:02,099 : DEBUG : Worker-1 : DecisionTreeLearnerNodeFactory2 : Cross Validation : 1:0 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,145 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Cross Validation : 1:0 : Workflow being loaded ("Decision Tree Predictor (#15)") is not locked
+2018-01-22 11:31:02,147 : DEBUG : Worker-1 : DecTreePredictorNodeFactory : Cross Validation : 1:0 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,179 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0:14(1) to node 1:0:15(1)
+2018-01-22 11:31:02,180 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0:2(1) to node 1:0:14(1)
+2018-01-22 11:31:02,180 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0:2(2) to node 1:0:15(2)
+2018-01-22 11:31:02,181 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0(0) to node 1:0:2(1)
+2018-01-22 11:31:02,181 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0:1(2) to node 1:0(1)
+2018-01-22 11:31:02,181 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0:1(1) to node 1:0(0)
+2018-01-22 11:31:02,181 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:0:15(1) to node 1:0:1(1)
+2018-01-22 11:31:02,194 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Cross Validation"  with no errors
+2018-01-22 11:31:02,195 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'cross_validation': Cross Validation
+2018-01-22 11:31:02,196 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Feature Elimination/
+2018-01-22 11:31:02,196 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Feature Elimination
+2018-01-22 11:31:02,200 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Feature Elimination") is not locked
+2018-01-22 11:31:02,200 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Feature Elimination" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,203 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:1
+2018-01-22 11:31:02,204 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Feature Elimination : 1:1 : Workflow being loaded ("Backward Feature Elimination Start _1_1_ (#1)") is not locked
+2018-01-22 11:31:02,207 : DEBUG : Worker-1 : BWElimLoopStart1NodeFactory : Feature Elimination : 1:1 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,207 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Feature Elimination : 1:1 : Workflow being loaded ("Backward Feature Elimination Filter (#2)") is not locked
+2018-01-22 11:31:02,210 : DEBUG : Worker-1 : BWElimFilterNodeFactory : Feature Elimination : 1:1 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,213 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Feature Elimination : 1:1 : Workflow being loaded ("Backward Feature Elimination End (#3)") is not locked
+2018-01-22 11:31:02,216 : DEBUG : Worker-1 : BWElimLoopEndNodeFactory : Feature Elimination : 1:1 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,217 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Feature Elimination : 1:1 : Workflow being loaded ("Partitioning (#7)") is not locked
+2018-01-22 11:31:02,220 : DEBUG : Worker-1 : PartitionNodeFactory : Feature Elimination : 1:1 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,222 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Feature Elimination : 1:1 : Workflow being loaded ("Naive Bayes Learner (#8)") is not locked
+2018-01-22 11:31:02,225 : DEBUG : Worker-1 : NaiveBayesLearnerNodeFactory2 : Feature Elimination : 1:1 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,228 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Feature Elimination : 1:1 : Workflow being loaded ("Naive Bayes Predictor (#9)") is not locked
+2018-01-22 11:31:02,231 : DEBUG : Worker-1 : NaiveBayesPredictorNodeFactory2 : Feature Elimination : 1:1 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,234 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:3(2) to node 1:1:2(1)
+2018-01-22 11:31:02,234 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:8(1) to node 1:1:9(1)
+2018-01-22 11:31:02,234 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:1(1) to node 1:1:7(1)
+2018-01-22 11:31:02,234 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:9(1) to node 1:1:3(1)
+2018-01-22 11:31:02,234 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:3(1) to node 1:1(0)
+2018-01-22 11:31:02,234 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1(1) to node 1:1:2(2)
+2018-01-22 11:31:02,235 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:2(1) to node 1:1(1)
+2018-01-22 11:31:02,235 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:7(2) to node 1:1:9(2)
+2018-01-22 11:31:02,235 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1(0) to node 1:1:1(1)
+2018-01-22 11:31:02,235 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:1:7(1) to node 1:1:8(1)
+2018-01-22 11:31:02,240 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Feature Elimination"  with no errors
+2018-01-22 11:31:02,241 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'feature_elimination': Feature Elimination
+2018-01-22 11:31:02,241 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Variables Loop (Data)/
+2018-01-22 11:31:02,241 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Variables Loop (Data)
+2018-01-22 11:31:02,243 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Variables Loop (Data)") is not locked
+2018-01-22 11:31:02,243 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Variables Loop (Data)" (version "V200" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,245 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:2
+2018-01-22 11:31:02,246 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Variables Loop (Data) : 1:2 : Workflow being loaded ("Loop End (#2)") is not locked
+2018-01-22 11:31:02,249 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Variables Loop (Data) : 1:2 : Workflow being loaded ("Row To Variable Loop Start (#3)") is not locked
+2018-01-22 11:31:02,253 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Variables Loop (Data) : 1:2 : Workflow being loaded ("Inject Variables _Data_ (#4)") is not locked
+2018-01-22 11:31:02,257 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:2:3(1) to node 1:2:4(2)
+2018-01-22 11:31:02,257 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:2(1) to node 1:2:3(1)
+2018-01-22 11:31:02,257 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:2(0) to node 1:2:4(1)
+2018-01-22 11:31:02,257 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:2:2(1) to node 1:2(0)
+2018-01-22 11:31:02,261 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Variables Loop (Data)"  with no errors
+2018-01-22 11:31:02,262 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'variables_loop': Variables Loop (Data)
+2018-01-22 11:31:02,262 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Variables Loop (Database)/
+2018-01-22 11:31:02,262 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Variables Loop (Database)
+2018-01-22 11:31:02,263 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Variables Loop (Database)") is not locked
+2018-01-22 11:31:02,264 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Variables Loop (Database)" (version "V200" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,265 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:3
+2018-01-22 11:31:02,265 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Variables Loop (Database) : 1:3 : Workflow being loaded ("Loop End (#2)") is not locked
+2018-01-22 11:31:02,268 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Variables Loop (Database) : 1:3 : Workflow being loaded ("Row To Variable Loop Start (#3)") is not locked
+2018-01-22 11:31:02,270 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Variables Loop (Database) : 1:3 : Workflow being loaded ("Inject Variables _Database_ (#4)") is not locked
+2018-01-22 11:31:02,273 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:3:3(1) to node 1:3:4(2)
+2018-01-22 11:31:02,274 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:3(1) to node 1:3:3(1)
+2018-01-22 11:31:02,274 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:3(0) to node 1:3:4(1)
+2018-01-22 11:31:02,274 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:3:2(1) to node 1:3(0)
+2018-01-22 11:31:02,278 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Variables Loop (Database)"  with no errors
+2018-01-22 11:31:02,279 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'variables_loop_db': Variables Loop (Database)
+2018-01-22 11:31:02,279 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Iterate list of files/
+2018-01-22 11:31:02,280 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Iterate list of files
+2018-01-22 11:31:02,282 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Iterate list of files") is not locked
+2018-01-22 11:31:02,282 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Iterate list of files" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,283 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:4
+2018-01-22 11:31:02,284 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Iterate List of Files : 1:4 : Workflow being loaded ("TableRow To Variable Loop Start (#2)") is not locked
+2018-01-22 11:31:02,286 : DEBUG : Worker-1 : LoopStartVariableNodeFactory : Iterate List of Files : 1:4 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,292 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Iterate List of Files : 1:4 : Workflow being loaded ("Loop End (#3)") is not locked
+2018-01-22 11:31:02,295 : DEBUG : Worker-1 : LoopEndNodeFactory : Iterate List of Files : 1:4 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,295 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Iterate List of Files : 1:4 : Workflow being loaded ("File Reader (#4)") is not locked
+2018-01-22 11:31:02,300 : DEBUG : Worker-1 : FileReaderNodeFactory : Iterate List of Files : 1:4 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,310 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:4:2(1) to node 1:4:4(0)
+2018-01-22 11:31:02,310 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:4:4(1) to node 1:4:3(1)
+2018-01-22 11:31:02,310 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:4:3(1) to node 1:4(0)
+2018-01-22 11:31:02,310 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:4(0) to node 1:4:2(1)
+2018-01-22 11:31:02,326 : INFO  : Worker-1 : StringHistory : File Reader : 1:4:4 : History file '/Users/ppx/Desktop/M2 DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/.metadata/knime/history_ASCIIfile.txt' does not exist.
+2018-01-22 11:31:02,329 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Iterate list of files"  with no errors
+2018-01-22 11:31:02,331 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'iterate_list_of_files': Iterate List of Files
+2018-01-22 11:31:02,331 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Looper/
+2018-01-22 11:31:02,331 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Looper
+2018-01-22 11:31:02,332 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Looper") is not locked
+2018-01-22 11:31:02,333 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Looper" (version "V200" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,334 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:5
+2018-01-22 11:31:02,334 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Loop x-times : 1:5 : Workflow being loaded ("Counting Loop Start (#1)") is not locked
+2018-01-22 11:31:02,339 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Loop x-times : 1:5 : Workflow being loaded ("Loop End (#2)") is not locked
+2018-01-22 11:31:02,342 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:5:2(1) to node 1:5(0)
+2018-01-22 11:31:02,342 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:5(0) to node 1:5:1(1)
+2018-01-22 11:31:02,347 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/plugins/org.knime.base_3.4.1.v201709070950/metanode_templates/Looper"  with no errors
+2018-01-22 11:31:02,348 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'looper': Loop x-times
+2018-01-22 11:31:02,348 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Boosting Learner/
+2018-01-22 11:31:02,350 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Boosting Learner
+2018-01-22 11:31:02,352 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Boosting Learner") is not locked
+2018-01-22 11:31:02,353 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Boosting Learner" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,354 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:6
+2018-01-22 11:31:02,354 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Learner : 1:6 : Workflow being loaded ("Boosting Learner Loop Start (#1)") is not locked
+2018-01-22 11:31:02,358 : DEBUG : Worker-1 : BoostingLearnerLoopStartNodeFactory : Boosting Learner : 1:6 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,359 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Learner : 1:6 : Workflow being loaded ("Boosting Learner Loop End (#4)") is not locked
+2018-01-22 11:31:02,362 : DEBUG : Worker-1 : BoostingLearnerLoopEndNodeFactory : Boosting Learner : 1:6 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,365 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Learner : 1:6 : Workflow being loaded ("Naive Bayes Learner (#7)") is not locked
+2018-01-22 11:31:02,369 : DEBUG : Worker-1 : NaiveBayesLearnerNodeFactory2 : Boosting Learner : 1:6 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,370 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Learner : 1:6 : Workflow being loaded ("Naive Bayes Predictor (#8)") is not locked
+2018-01-22 11:31:02,372 : DEBUG : Worker-1 : NaiveBayesPredictorNodeFactory2 : Boosting Learner : 1:6 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,374 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6:7(1) to node 1:6:4(1)
+2018-01-22 11:31:02,374 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6:1(1) to node 1:6:7(1)
+2018-01-22 11:31:02,374 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6:1(2) to node 1:6:8(2)
+2018-01-22 11:31:02,374 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6:4(1) to node 1:6(0)
+2018-01-22 11:31:02,374 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6:8(1) to node 1:6:4(2)
+2018-01-22 11:31:02,374 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6(0) to node 1:6:1(1)
+2018-01-22 11:31:02,377 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:6:7(1) to node 1:6:8(1)
+2018-01-22 11:31:02,383 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Boosting Learner"  with no errors
+2018-01-22 11:31:02,385 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'org.knime.ensembles.boosting_learner': Boosting Learner
+2018-01-22 11:31:02,385 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Boosting Predictor/
+2018-01-22 11:31:02,387 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Boosting Predictor
+2018-01-22 11:31:02,389 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Boosting Predictor") is not locked
+2018-01-22 11:31:02,389 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Boosting Predictor" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,390 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:7
+2018-01-22 11:31:02,391 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Predictor : 1:7 : Workflow being loaded ("Boosting Predictor Loop Start (#1)") is not locked
+2018-01-22 11:31:02,395 : DEBUG : Worker-1 : BoostingPredictorLoopStartNodeFactory : Boosting Predictor : 1:7 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,397 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Predictor : 1:7 : Workflow being loaded ("Boosting Predictor Loop End (#3)") is not locked
+2018-01-22 11:31:02,402 : DEBUG : Worker-1 : BoostingPredictorLoopEndNodeFactory : Boosting Predictor : 1:7 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,404 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Boosting Predictor : 1:7 : Workflow being loaded ("Naive Bayes Predictor (#4)") is not locked
+2018-01-22 11:31:02,408 : DEBUG : Worker-1 : NaiveBayesPredictorNodeFactory2 : Boosting Predictor : 1:7 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,410 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:7:1(1) to node 1:7:4(1)
+2018-01-22 11:31:02,410 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:7:4(1) to node 1:7:3(1)
+2018-01-22 11:31:02,410 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:7(1) to node 1:7:4(2)
+2018-01-22 11:31:02,410 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:7:3(1) to node 1:7(0)
+2018-01-22 11:31:02,410 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:7(0) to node 1:7:1(1)
+2018-01-22 11:31:02,413 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Boosting Predictor"  with no errors
+2018-01-22 11:31:02,415 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'org.knime.ensembles.boosting_predictor': Boosting Predictor
+2018-01-22 11:31:02,415 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Delegating/
+2018-01-22 11:31:02,417 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Delegating
+2018-01-22 11:31:02,420 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Delegating") is not locked
+2018-01-22 11:31:02,420 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Delegating" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,423 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:8
+2018-01-22 11:31:02,423 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("Filter well (#61)") is not locked
+2018-01-22 11:31:02,425 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("Decision Tree Learner (#62)") is not locked
+2018-01-22 11:31:02,427 : DEBUG : Worker-1 : DecisionTreeLearnerNodeFactory2 : Delegating : 1:8 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,428 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("Recursive Loop Start (#63)") is not locked
+2018-01-22 11:31:02,447 : DEBUG : Worker-1 : RecursiveLoopStartNodeFactory : Delegating : 1:8 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,448 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("Recursive Loop End (#64)") is not locked
+2018-01-22 11:31:02,457 : DEBUG : Worker-1 : RecursiveLoopEndNodeFactory : Delegating : 1:8 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,458 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("PMML Predictor (#65)") is not locked
+2018-01-22 11:31:02,465 : DEBUG : Worker-1 : PMMLPredictor2NodeFactory : Delegating : 1:8 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,466 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("Reference Column Filter (#66)") is not locked
+2018-01-22 11:31:02,469 : DEBUG : Worker-1 : ColumnFilterRefNodeFactory : Delegating : 1:8 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,470 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Delegating : 1:8 : Workflow being loaded ("PMML To Cell (#67)") is not locked
+2018-01-22 11:31:02,473 : DEBUG : Worker-1 : PMMLPortToCellNodeFactory : Delegating : 1:8 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,475 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:8:61
+2018-01-22 11:31:02,475 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8(0) to node 1:8:63(1)
+2018-01-22 11:31:02,475 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:63(1) to node 1:8:62(1)
+2018-01-22 11:31:02,475 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:66(1) to node 1:8:64(2)
+2018-01-22 11:31:02,475 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:67(1) to node 1:8:64(1)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:65(1) to node 1:8:61(0)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:62(1) to node 1:8:67(1)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:63(1) to node 1:8:66(2)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : Workflow :  :  : Triggering graph analysis on 1:8:61
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:63(1) to node 1:8:65(2)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:61(0) to node 1:8:66(1)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:62(1) to node 1:8:65(1)
+2018-01-22 11:31:02,476 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:64(1) to node 1:8(0)
+2018-01-22 11:31:02,482 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Filter well predicted rows : 1:8:61 : Workflow being loaded ("Joiner (#61)") is not locked
+2018-01-22 11:31:02,485 : DEBUG : Worker-1 : Joiner2NodeFactory : Filter well predicted rows : 1:8:61 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,490 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Filter well predicted rows : 1:8:61 : Workflow being loaded ("Reference Row Filter (#62)") is not locked
+2018-01-22 11:31:02,492 : DEBUG : Worker-1 : RowFilterRefNodeFactory : Filter well predicted rows : 1:8:61 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,495 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:61:62(1) to node 1:8:61(0)
+2018-01-22 11:31:02,495 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:61(0) to node 1:8:61:62(1)
+2018-01-22 11:31:02,496 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:61(0) to node 1:8:61:61(1)
+2018-01-22 11:31:02,496 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:61(0) to node 1:8:61:61(2)
+2018-01-22 11:31:02,496 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:8:61:61(1) to node 1:8:61:62(2)
+2018-01-22 11:31:02,503 : DEBUG : Worker-1 : Workflow :  :  : Triggering graph analysis on 1:8:61
+2018-01-22 11:31:02,507 : DEBUG : Worker-1 : NodeContainer :  :  : Recursive Loop Start 1:8:63 has new state: IDLE
+2018-01-22 11:31:02,507 : DEBUG : Worker-1 : NodeContainer :  :  : Decision Tree Learner (deprecated) 1:8:62 has new state: IDLE
+2018-01-22 11:31:02,507 : DEBUG : Worker-1 : NodeContainer :  :  : PMML Predictor 1:8:65 has new state: IDLE
+2018-01-22 11:31:02,507 : DEBUG : Worker-1 : NodeContainer :  :  : PMML To Cell 1:8:67 has new state: IDLE
+2018-01-22 11:31:02,508 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Delegating"  with warnings
+2018-01-22 11:31:02,508 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'org.knime.ensembles.delegated_learning': Delegating
+2018-01-22 11:31:02,509 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Bagging/
+2018-01-22 11:31:02,511 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Bagging
+2018-01-22 11:31:02,514 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Bagging") is not locked
+2018-01-22 11:31:02,514 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Bagging" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,516 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:9
+2018-01-22 11:31:02,516 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Model Loop End (#7)") is not locked
+2018-01-22 11:31:02,520 : DEBUG : Worker-1 : ModelLoopEndNodeFactory : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,520 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Model Loop Start (#8)") is not locked
+2018-01-22 11:31:02,524 : DEBUG : Worker-1 : ModelLoopStartNodeFactory : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,524 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Voting Loop End (#9)") is not locked
+2018-01-22 11:31:02,529 : DEBUG : Worker-1 : VotingLoopEndNodeFactory : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,530 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Chunk Loop Start (#12)") is not locked
+2018-01-22 11:31:02,533 : DEBUG : Worker-1 : LoopStartChunkNodeFactory : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,533 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Shuffle (#13)") is not locked
+2018-01-22 11:31:02,536 : DEBUG : Worker-1 : ShuffleNodeFactory : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,536 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Decision Tree Learner (#14)") is not locked
+2018-01-22 11:31:02,538 : DEBUG : Worker-1 : DecisionTreeLearnerNodeFactory2 : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,539 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Bagging : 1:9 : Workflow being loaded ("Decision Tree Predictor (#15)") is not locked
+2018-01-22 11:31:02,541 : DEBUG : Worker-1 : DecTreePredictorNodeFactory : Bagging : 1:9 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,542 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9(1) to node 1:9:15(2)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:13(1) to node 1:9:12(1)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:12(1) to node 1:9:14(1)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9(0) to node 1:9:13(1)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:9(1) to node 1:9(0)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:15(1) to node 1:9:9(1)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:8(1) to node 1:9:15(1)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:14(1) to node 1:9:7(1)
+2018-01-22 11:31:02,543 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:9:7(1) to node 1:9:8(1)
+2018-01-22 11:31:02,547 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/325/0/.cp/metanode_templates/Bagging"  with no errors
+2018-01-22 11:31:02,547 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'org.knime.ensembles.bagging': Bagging
+2018-01-22 11:31:02,548 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Seasonality Correction/
+2018-01-22 11:31:02,549 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Seasonality Correction
+2018-01-22 11:31:02,551 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Seasonality Correction") is not locked
+2018-01-22 11:31:02,551 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/347/0/.cp/metanode_templates/Seasonality Correction" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,553 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:10
+2018-01-22 11:31:02,554 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Seasonality Correction : 1:10 : Workflow being loaded ("Lag Column (#24)") is not locked
+2018-01-22 11:31:02,556 : DEBUG : Worker-1 : LagColumnNodeFactory : Seasonality Correction : 1:10 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,558 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Seasonality Correction : 1:10 : Workflow being loaded ("Java Snippet _simple_ (#25)") is not locked
+2018-01-22 11:31:02,560 : DEBUG : Worker-1 : JavaScriptingNodeFactory : Seasonality Correction : 1:10 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,562 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:10:24(1) to node 1:10:25(1)
+2018-01-22 11:31:02,562 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:10:25(1) to node 1:10(0)
+2018-01-22 11:31:02,562 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:10(0) to node 1:10:24(1)
+2018-01-22 11:31:02,564 : DEBUG : Worker-1 : NodeContainer :  :  : Lag Column 1:10:24 has new state: IDLE
+2018-01-22 11:31:02,564 : DEBUG : Worker-1 : NodeContainer :  :  : Java Snippet (simple) 1:10:25 has new state: IDLE
+2018-01-22 11:31:02,564 : DEBUG : Worker-1 : NodeContainer :  :  : Seasonality Correction 1:10 has new state: IDLE
+2018-01-22 11:31:02,565 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/347/0/.cp/metanode_templates/Seasonality Correction"  with warnings
+2018-01-22 11:31:02,565 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'SeasonalityCorrection': Seasonality Correction
+2018-01-22 11:31:02,565 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Time Series Auto-Prediction Training/
+2018-01-22 11:31:02,566 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Time Series Auto-Prediction Training
+2018-01-22 11:31:02,568 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Time Series Auto-Prediction Training") is not locked
+2018-01-22 11:31:02,568 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/347/0/.cp/metanode_templates/Time Series Auto-Prediction Training" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,571 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:11
+2018-01-22 11:31:02,571 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Time Series Auto-Prediction Training : 1:11 : Workflow being loaded ("Partitioning (#147)") is not locked
+2018-01-22 11:31:02,574 : DEBUG : Worker-1 : PartitionNodeFactory : Time Series Auto-Prediction Training : 1:11 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,574 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Time Series Auto-Prediction Training : 1:11 : Workflow being loaded ("Lag Column (#216)") is not locked
+2018-01-22 11:31:02,576 : DEBUG : Worker-1 : LagColumnNodeFactory : Time Series Auto-Prediction Training : 1:11 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,577 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Time Series Auto-Prediction Training : 1:11 : Workflow being loaded ("Linear Regression Learner (#234)") is not locked
+2018-01-22 11:31:02,581 : DEBUG : Worker-1 : LinReg2LearnerNodeFactory : Time Series Auto-Prediction Training : 1:11 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,591 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:11:234(1) to node 1:11(0)
+2018-01-22 11:31:02,591 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:11:234(2) to node 1:11(1)
+2018-01-22 11:31:02,591 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:11(0) to node 1:11:216(1)
+2018-01-22 11:31:02,591 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:11:147(1) to node 1:11:234(1)
+2018-01-22 11:31:02,591 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:11:216(1) to node 1:11:147(1)
+2018-01-22 11:31:02,591 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:11:147(2) to node 1:11(2)
+2018-01-22 11:31:02,594 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/347/0/.cp/metanode_templates/Time Series Auto-Prediction Training"  with no errors
+2018-01-22 11:31:02,595 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'Time-SeriesAuto-PredictionTraining': Time-Series Auto-Prediction Training
+2018-01-22 11:31:02,595 : DEBUG : Worker-1 : RepositoryFactory :  :  : found pre-installed template metanode_templates/Time Series Auto-Prediction Predictor/
+2018-01-22 11:31:02,596 : DEBUG : Worker-1 : RepositoryFactory :  :  : meta node template name: Time Series Auto-Prediction Predictor
+2018-01-22 11:31:02,598 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor :  :  : Workflow being loaded ("Time Series Auto-Prediction Predictor") is not locked
+2018-01-22 11:31:02,598 : DEBUG : Worker-1 : WorkflowManager :  :  : Loading workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/347/0/.cp/metanode_templates/Time Series Auto-Prediction Predictor" (version "V2100" with loader class "FileWorkflowPersistor")
+2018-01-22 11:31:02,600 : DEBUG : Worker-1 : WorkflowManager :  :  : Created subworkflow 1:12
+2018-01-22 11:31:02,600 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Time Series Auto-Prediction Predictor : 1:12 : Workflow being loaded ("Numeric Scorer (#176)") is not locked
+2018-01-22 11:31:02,603 : DEBUG : Worker-1 : NumericScorerNodeFactory : Time Series Auto-Prediction Predictor : 1:12 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,605 : DEBUG : Worker-1 : FileNodeContainerMetaPersistor : Time Series Auto-Prediction Predictor : 1:12 : Workflow being loaded ("Regression Predictor (#237)") is not locked
+2018-01-22 11:31:02,607 : DEBUG : Worker-1 : RegressionPredictorNodeFactory : Time Series Auto-Prediction Predictor : 1:12 : Factory is already initialized. Nothing to do.
+2018-01-22 11:31:02,609 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:12(1) to node 1:12:237(2)
+2018-01-22 11:31:02,609 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:12:237(1) to node 1:12(0)
+2018-01-22 11:31:02,609 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:12(0) to node 1:12:237(1)
+2018-01-22 11:31:02,609 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:12:237(1) to node 1:12:176(1)
+2018-01-22 11:31:02,609 : DEBUG : Worker-1 : WorkflowManager :  :  : Added new connection from node 1:12:176(1) to node 1:12(1)
+2018-01-22 11:31:02,610 : DEBUG : Worker-1 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.4.1.app/Contents/Eclipse/configuration/org.eclipse.osgi/347/0/.cp/metanode_templates/Time Series Auto-Prediction Predictor"  with no errors
+2018-01-22 11:31:02,611 : DEBUG : Worker-1 : RepositoryManager :  :  : Found meta node definition 'Time-SeriesAuto-PredictionPredictor': Time-Series Auto-Prediction Predictor
+2018-01-22 11:32:01,089 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/"
+2018-01-22 11:32:01,116 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource R/
+2018-01-22 11:32:01,118 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/KNIME_project"
+2018-01-22 11:32:01,119 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource P/KNIME_project
+2018-01-22 11:32:01,247 : DEBUG : main : WorkflowEditor :  :  : Creating WorkflowEditor...
+2018-01-22 11:32:01,259 : DEBUG : main : WorkflowEditor :  :  : creating editor actions...
+2018-01-22 11:32:01,335 : DEBUG : main : WorkflowEditor :  :  : Initializing editor UI...
+2018-01-22 11:32:01,335 : DEBUG : main : WorkflowEditor :  :  : Opening workflow Editor on workflow.knime
+2018-01-22 11:32:01,336 : DEBUG : main : WorkflowEditor :  :  : Setting input into editor...
+2018-01-22 11:32:01,337 : DEBUG : main : WorkflowEditor :  :  : Resource File's project: file:/Users/ppx/Desktop/M2%20DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/KNIME_project/
+2018-01-22 11:32:01,393 : INFO  : ModalContext : LoadWorkflowRunnable :  :  : New workflow created.
+2018-01-22 11:32:01,399 : DEBUG : ModalContext : NodeContainer :  :  : Workflow Manager 2 has new state: EXECUTED
+2018-01-22 11:32:01,403 : DEBUG : ModalContext : WorkflowManager :  :  : Created subworkflow 2
+2018-01-22 11:32:01,409 : DEBUG : ModalContext : WorkflowManager :  :  : Added new subworkflow 2
+2018-01-22 11:32:01,409 : DEBUG : ModalContext : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-22 11:32:01,409 : DEBUG : ModalContext : WorkflowManager :  :  : Created project 2
+2018-01-22 11:32:01,534 : DEBUG : main : WorkflowEditor :  :  : Saving workflow Workflow Manager 2
+2018-01-22 11:32:01,570 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/KNIME_project"
+2018-01-22 11:32:01,662 : DEBUG : main : ProjectWorkflowMap :  :  : Adding "file:/Users/ppx/Desktop/M2%20DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/KNIME_project/" to project map (1 in total)
+2018-01-22 11:32:01,667 : DEBUG : main : ProjectWorkflowMap :  :  : registering org.knime.workbench.editor2.WorkflowEditor@68f1b89 to file:/Users/ppx/Desktop/M2%20DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/KNIME_project/. 1 registered clients now.
+2018-01-22 11:32:05,414 : WARN  : main : File Reader : File Reader : 2:1 : Missing settings. Please configure the node.
+2018-01-22 11:32:05,414 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:1;old=null;new=File Reader 2:1 (IDLE);timestamp=22 janv. 2018 11:32:05]
+2018-01-22 11:32:05,415 : DEBUG : main : WorkflowManager :  :  : Added new node 2:1
+2018-01-22 11:32:05,415 : DEBUG : main : NodeContainer :  :  : Setting dirty flag on KNIME_project 2
+2018-01-22 11:32:05,416 : DEBUG : main : NodeContainer :  :  : KNIME_project 2 has new state: IDLE
+2018-01-22 11:32:05,417 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=WORKFLOW_DIRTY;node=2;old=null;new=null;timestamp=22 janv. 2018 11:32:05]
+2018-01-22 11:32:05,536 : DEBUG : main : WorkflowRootEditPart : File Reader : 2:1 : part: NodeAnnotationEditPart(  )
+2018-01-22 11:32:05,567 : DEBUG : main : WorkflowRootEditPart : File Reader : 2:1 : part: NodeContainerEditPart( File Reader 2:1 (IDLE) )
+2018-01-22 11:32:17,298 : DEBUG : main : File Reader : File Reader : 2:1 : Configure succeeded. (File Reader)
+2018-01-22 11:32:17,299 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: CONFIGURED
+2018-01-22 11:32:17,300 : DEBUG : main : NodeContainer : File Reader : 2:1 : KNIME_project 2 has new state: CONFIGURED
+2018-01-22 11:33:27,436 : DEBUG : main : File Reader : File Reader : 2:1 : reset
+2018-01-22 11:33:27,438 : DEBUG : main : File Reader : File Reader : 2:1 : clean output ports.
+2018-01-22 11:33:27,438 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: IDLE
+2018-01-22 11:33:27,441 : DEBUG : main : File Reader : File Reader : 2:1 : Configure succeeded. (File Reader)
+2018-01-22 11:33:27,442 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: CONFIGURED
+2018-01-22 11:33:34,379 : DEBUG : main : VerifyingCompoundCommand :  :  : Executing <1> commands.
+2018-01-22 11:33:34,386 : DEBUG : main : FileReaderNodeModel : File Reader : 2:1 : Removing all (0) views from model.
+2018-01-22 11:33:34,386 : DEBUG : main : File Reader : File Reader : 2:1 : clean output ports.
+2018-01-22 11:33:34,386 : DEBUG : main : NodeContainer :  :  : KNIME_project 2 has new state: EXECUTED
+2018-01-22 11:33:34,386 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_REMOVED;node=2;old=File Reader 2:1 (CONFIGURED);new=null;timestamp=22 janv. 2018 11:33:34]
+2018-01-22 11:40:01,532 : WARN  : main : File Reader : File Reader : 2:1 : Missing settings. Please configure the node.
+2018-01-22 11:40:01,533 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:1;old=null;new=File Reader 2:1 (IDLE);timestamp=22 janv. 2018 11:40:01]
+2018-01-22 11:40:01,533 : DEBUG : main : WorkflowManager :  :  : Added new node 2:1
+2018-01-22 11:40:01,533 : DEBUG : main : NodeContainer :  :  : KNIME_project 2 has new state: IDLE
+2018-01-22 11:40:01,540 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-22 11:40:01,541 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( File Reader 2:1 (IDLE) )
+2018-01-22 11:40:05,533 : DEBUG : main : File Reader : File Reader : 2:1 : Configure succeeded. (File Reader)
+2018-01-22 11:40:05,533 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: CONFIGURED
+2018-01-22 11:40:05,533 : DEBUG : main : NodeContainer : File Reader : 2:1 : KNIME_project 2 has new state: CONFIGURED
+2018-01-22 11:40:14,422 : DEBUG : main : WorkflowManager :  :  : Added new node 2:2
+2018-01-22 11:40:14,422 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:2;old=null;new=Association Rule Learner 2:2 (IDLE);timestamp=22 janv. 2018 11:40:14]
+2018-01-22 11:40:14,423 : DEBUG : main : NodeContainer :  :  : KNIME_project 2 has new state: IDLE
+2018-01-22 11:40:14,445 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-22 11:40:14,445 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( Association Rule Learner 2:2 (IDLE) )
+2018-01-22 11:40:14,446 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:1 (CONFIGURED)
+2018-01-22 11:40:14,451 : DEBUG : KNIME-Node-Usage-Writer : NodeTimer$GlobalNodeStats :  :  : Successfully wrote node usage stats to file: /Users/ppx/Desktop/M2 DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/.metadata/knime/nodeusage_3.0.json
+2018-01-22 11:40:16,020 : DEBUG : main : NodeContainerEditPart :  :  : Association Rule Learner 2:2 (IDLE)
+2018-01-22 11:40:16,020 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:1 (CONFIGURED)
+2018-01-22 11:40:17,102 : DEBUG : main : CreateConnectionCommand :  :  : adding connection from 2:1 1 to 2:2 1
+2018-01-22 11:40:17,103 : WARN  : main : Association Rule Learner : Association Rule Learner : 2:2 : Expecting at least one column containing transactions,(BitVectors or CollectionCells)
+2018-01-22 11:40:17,103 : DEBUG : main : WorkflowManager :  :  : Added new connection from node 2:1(1) to node 2:2(1)
+2018-01-22 11:40:17,103 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=CONNECTION_ADDED;node=null;old=null;new=STD[2:1(1) -> 2:2( 1)];timestamp=22 janv. 2018 11:40:17]
+2018-01-22 11:40:17,124 : DEBUG : main : ConnectionContainerEditPart :  :  : refreshing visuals for: STD[2:1(1) -> 2:2( 1)]
+2018-01-22 11:40:17,124 : DEBUG : main : ConnectionContainerEditPart :  :  : modelling info: null
+2018-01-22 11:40:17,125 : DEBUG : main : ConnectionContainerEditPart :  :  : refreshing visuals for: STD[2:1(1) -> 2:2( 1)]
+2018-01-22 11:40:17,125 : DEBUG : main : ConnectionContainerEditPart :  :  : modelling info: null
+2018-01-22 11:40:18,170 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:1 (CONFIGURED)
+2018-01-22 11:40:18,170 : DEBUG : main : NodeContainerEditPart :  :  : Association Rule Learner 2:2 (IDLE)
+2018-01-22 11:52:04,505 : DEBUG : KNIME-Node-Usage-Writer : NodeTimer$GlobalNodeStats :  :  : Successfully wrote node usage stats to file: /Users/ppx/Desktop/M2 DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/.metadata/knime/nodeusage_3.0.json
+2018-01-22 11:52:04,511 : DEBUG : KNIME-Node-Usage-Sender : NodeTimer$GlobalNodeStats :  :  : Sending of usage stats disabled.
+2018-01-22 11:52:07,857 : DEBUG : main : WorkflowRootEditPart :  :  : WorkflowRootEditPart deactivated
+2018-01-22 11:52:07,863 : DEBUG : main : WorkflowEditor :  :  : Disposing editor...
+2018-01-22 11:52:07,863 : DEBUG : main : ProjectWorkflowMap :  :  : unregistering org.knime.workbench.editor2.WorkflowEditor@68f1b89 from file:/Users/ppx/Desktop/M2%20DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/KNIME_project/. 0 left.
+2018-01-22 11:52:07,863 : DEBUG : main : ProjectWorkflowMap : KNIME_project : 2 : Removing "file:/Users/ppx/Desktop/M2%20DS/projet_lolo_paulo/TP_AccidentsRouteLyon/code/KNIME_project/" from project map (0 remaining)
+2018-01-22 11:52:07,865 : DEBUG : main : WorkflowManager : KNIME_project : 2 : Removing project "KNIME_project 2"
+2018-01-22 11:52:07,867 : DEBUG : main : SubgroupMinerModel2 : Association Rule Learner : 2:2 : Removing all (0) views from model.
+2018-01-22 11:52:07,867 : DEBUG : main : Association Rule Learner : Association Rule Learner : 2:2 : clean output ports.
+2018-01-22 11:52:07,867 : DEBUG : main : FileReaderNodeModel : File Reader : 2:1 : Removing all (0) views from model.
+2018-01-22 11:52:07,868 : DEBUG : main : File Reader : File Reader : 2:1 : clean output ports.
+2018-01-22 11:52:07,874 : DEBUG : main : WorkflowManager : KNIME_project : 2 : Project "KNIME_project 2" removed (1 remaining)
